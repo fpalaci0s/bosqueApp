@@ -25,10 +25,10 @@ com.example.bosqueapp-core-runtime-2.2.0-23 /home/mango/.gradle/caches/8.9/trans
 com.example.bosqueapp-appcompat-1.7.0-24 /home/mango/.gradle/caches/8.9/transforms/f3ba4377d00610daa2fd752ef99f0fda/transformed/appcompat-1.7.0/res
 com.example.bosqueapp-lifecycle-livedata-2.6.2-25 /home/mango/.gradle/caches/8.9/transforms/f441d5119a685a2d1ec1f2cdd99d6e0a/transformed/lifecycle-livedata-2.6.2/res
 com.example.bosqueapp-activity-1.9.2-26 /home/mango/.gradle/caches/8.9/transforms/f9023202f96507420d372eb658d4714c/transformed/activity-1.9.2/res
-com.example.bosqueapp-pngs-27 /home/mango/Documentos/GitHub/bosqueApp/bosqueApp/BosqueApp/app/build/generated/res/pngs/debug
-com.example.bosqueapp-resValues-28 /home/mango/Documentos/GitHub/bosqueApp/bosqueApp/BosqueApp/app/build/generated/res/resValues/debug
-com.example.bosqueapp-packageDebugResources-29 /home/mango/Documentos/GitHub/bosqueApp/bosqueApp/BosqueApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.bosqueapp-packageDebugResources-30 /home/mango/Documentos/GitHub/bosqueApp/bosqueApp/BosqueApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.bosqueapp-debug-31 /home/mango/Documentos/GitHub/bosqueApp/bosqueApp/BosqueApp/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.bosqueapp-debug-32 /home/mango/Documentos/GitHub/bosqueApp/bosqueApp/BosqueApp/app/src/debug/res
-com.example.bosqueapp-main-33 /home/mango/Documentos/GitHub/bosqueApp/bosqueApp/BosqueApp/app/src/main/res
+com.example.bosqueapp-pngs-27 /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/generated/res/pngs/debug
+com.example.bosqueapp-resValues-28 /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/generated/res/resValues/debug
+com.example.bosqueapp-packageDebugResources-29 /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.bosqueapp-packageDebugResources-30 /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.bosqueapp-debug-31 /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.bosqueapp-debug-32 /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/debug/res
+com.example.bosqueapp-main-33 /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/res

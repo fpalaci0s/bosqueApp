@@ -1,138 +1,142 @@
 [
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_carabineros_de_chile.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/carabineros_de_chile.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_carabineros_de_chile.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/carabineros_de_chile.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_notification_icon.png.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/notification_icon.png"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_bosquesur.jpg.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/bosquesur.jpg"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_phone_call.png.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/phone_call.png"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_bosquesur.jpg.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/bosquesur.jpg"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/ic_launcher_background.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/layout_vinculacion.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/layout/vinculacion.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_logo_conaf_arbol.jpg.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/logo_conaf_arbol.jpg"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_bomberos_de_chile.png.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/bomberos_de_chile.png"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/layout_vinculacion.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/layout/vinculacion.xml"
+    },
+    {
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/layout_zonas.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/layout/zonas.xml"
     },
     {
         "merged": "com.example.bosqueapp-debug-31:/layout_notificacion.xml.flat",
         "source": "com.example.bosqueapp-main-33:/layout/notificacion.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_warning_sign.png.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/warning_sign.png"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_pie_chart.png.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/pie_chart.png"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_fondo.jpg.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/fondo.jpg"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/layout_emergencias_contactos.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/layout/emergencias_contactos.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_warning_sign.png.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/warning_sign.png"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/layout_inicio_sesion.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/layout/inicio_sesion.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_pie_chart.png.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/pie_chart.png"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_phone_call.png.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/phone_call.png"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/layout_emergencias_contactos.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/layout/emergencias_contactos.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/layout_notificacion.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/layout/notificacion.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_user.png.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/user.png"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/layout_inicio_sesion.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/layout/inicio_sesion.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/ic_launcher_foreground.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_user.png.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/user.png"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_ambulancia.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/ambulancia.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_ambulancia.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/ambulancia.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/layout_zonas.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/layout/zonas.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_bosquecentral.jpeg.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/bosquecentral.jpeg"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/xml/data_extraction_rules.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_house_outline.png.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/house_outline.png"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_bosquecentral.jpeg.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/bosquecentral.jpeg"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_fondo.jpg.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/fondo.jpg"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.bosqueapp-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_notification_icon.png.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/notification_icon.png"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_logo_conaf_arbol.jpg.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/logo_conaf_arbol.jpg"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_bomberos_de_chile.png.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/bomberos_de_chile.png"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/drawable_house_outline.png.flat",
-        "source": "com.example.bosqueapp-main-33:/drawable/house_outline.png"
-    },
-    {
-        "merged": "com.example.bosqueapp-debug-31:/xml_backup_rules.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/xml/backup_rules.xml"
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/mipmap-xxhdpi/ic_launcher.webp"
     }
 ]
