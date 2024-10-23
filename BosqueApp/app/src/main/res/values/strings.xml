@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ForestApp</string>
+    <string name="app_name">bosqueApp</string>
     <string name="peligro">Peligro!</string>
     <string name="aumento_de_la_temperatura">Aumento de la temperatura</string>
     <string name="aceptar">Aceptar</string>

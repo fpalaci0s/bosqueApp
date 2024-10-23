@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.forestapp"
+    namespace = "com.example.bosqueapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.forestapp"
+        applicationId = "com.example.bosqueapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
