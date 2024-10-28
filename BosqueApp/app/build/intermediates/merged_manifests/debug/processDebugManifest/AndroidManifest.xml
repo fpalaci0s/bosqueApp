@@ -34,7 +34,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.ForestApp" >
         <activity
-            android:name="com.example.bosqueapp.MainActivity"
+            android:name="com.example.bosqueapp.LoginActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -42,6 +42,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.bosqueapp.MainMenuActivity"
+            android:exported="true" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

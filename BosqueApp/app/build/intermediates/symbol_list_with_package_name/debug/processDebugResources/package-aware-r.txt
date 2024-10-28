@@ -3213,6 +3213,9 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnLogout
+id btnProfile
+id btnSettings
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3357,6 +3360,7 @@ id line3
 id linear
 id listMode
 id list_item
+id loginButton
 id m3_side_sheet
 id main
 id marquee
@@ -3462,6 +3466,7 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id passwordInput
 id password_toggle
 id path
 id pathRelative
@@ -3600,6 +3605,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id usernameInput
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3733,6 +3739,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_main_menu
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3908,6 +3915,7 @@ string llamar_ambulancia
 string llamar_bomberos
 string llamar_carabineros
 string llamar_conaf
+string logout
 string m3_exceed_max_badge_text_suffix
 string m3_ref_typeface_brand_medium
 string m3_ref_typeface_brand_regular
@@ -3924,6 +3932,7 @@ string m3_sys_motion_easing_linear
 string m3_sys_motion_easing_standard
 string m3_sys_motion_easing_standard_accelerate
 string m3_sys_motion_easing_standard_decelerate
+string main_menu
 string mas_informacion
 string material_clock_display_divider
 string material_clock_toggle_content_description
@@ -4024,6 +4033,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string peligro
 string peligroacc
+string profile
 string rea_1500x1500_npropagaci_n_alta
 string recordar_contrase_a
 string se_al_de_peligro
@@ -4033,6 +4043,7 @@ string searchview_clear_text_content_description
 string searchview_navigation_content_description
 string selecione_cuenta_a_vincular
 string sensor_1
+string settings
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow

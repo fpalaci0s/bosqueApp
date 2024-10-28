@@ -41,6 +41,8 @@
     <string name="llamar_bomberos">Llamar Bomberos</string>
     <string name="llamar_carabineros">Llamar Carabineros</string>
     <string name="llamar_conaf">Llamar CONAF</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="main_menu">Menu Principal\n</string>
     <string name="mas_informacion">Más informacion</string>
     <string name="n_mero_130">Número: 130</string>
     <string name="n_mero_131">Número: 131</string>
@@ -52,11 +54,13 @@
     <string name="password">Ingrese su contraseña</string>
     <string name="peligro">Peligro!</string>
     <string name="peligroacc">Peligro</string>
+    <string name="profile">Tu perfil</string>
     <string name="rea_1500x1500_npropagaci_n_alta">Héctareas: 1500\nPropagación: Media</string>
     <string name="recordar_contrase_a">¿Ólvidaste tu contraseña?</string>
     <string name="se_al_de_peligro">Señal de peligro</string>
     <string name="selecione_cuenta_a_vincular">selecione cuenta a vincular</string>
     <string name="sensor_1">Sensor #1</string>
+    <string name="settings">Opciones</string>
     <string name="username">Ingrese su nombre de usuario</string>
     <string name="usuariobutton">UsuarioButton</string>
     <string name="utilizar_sensor_en_este_dispositivo">Utilizar el sensor para este dispositivo</string>

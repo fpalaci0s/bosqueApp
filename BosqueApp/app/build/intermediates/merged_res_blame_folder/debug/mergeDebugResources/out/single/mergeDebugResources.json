@@ -48,10 +48,6 @@
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/layout/zonas.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-31:/layout_notificacion.xml.flat",
-        "source": "com.example.bosqueapp-main-33:/layout/notificacion.xml"
-    },
-    {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/drawable_warning_sign.png.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/drawable/warning_sign.png"
     },
@@ -62,6 +58,14 @@
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/layout_emergencias_contactos.xml.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/layout/emergencias_contactos.xml"
+    },
+    {
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/layout_activity_main_menu.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-33:/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "com.example.bosqueapp-debug-31:/layout_inicio_sesion.xml.flat",
+        "source": "com.example.bosqueapp-main-33:/layout/inicio_sesion.xml"
     },
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",

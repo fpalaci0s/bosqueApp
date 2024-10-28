@@ -1,0 +1,5 @@
+com.example.bosqueapp.test.app-core-1.6.1-0 /home/mango/.gradle/caches/8.9/transforms/2d6f1b74540440f541c351ac809b147c/transformed/core-1.6.1/res
+com.example.bosqueapp.test.app-androidTest-1 /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/generated/res/resValues/androidTest/debug
+com.example.bosqueapp.test.app-mergeDebugAndroidTestResources-2 /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.bosqueapp.test.app-mergeDebugAndroidTestResources-3 /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.bosqueapp.test.app-debugAndroidTest-4 /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

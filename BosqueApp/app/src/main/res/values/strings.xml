@@ -56,4 +56,8 @@
     <string name="contrase_a_hint">Contraseña hint</string>
     <string name="nombre_usuario_hint">Nombre Usuario Hint</string>
     <string name="insertar_dispositivos_vinculados">Insertar dispositivos vinculados</string>
+    <string name="main_menu">Menu Principal\n</string>
+    <string name="profile">Tu perfil</string>
+    <string name="settings">Opciones</string>
+    <string name="logout">Cerrar Sesión</string>
 </resources>

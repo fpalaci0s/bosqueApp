@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-32:12
 MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/8e6f7106e9eb63f18442a217c14df724/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/1613b014b2b9caddbc2e7e9ae4358e61/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/mango/.gradle/caches/8.9/transforms/1fb93f5502dceb4f49a30e5733d51ef6/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
@@ -66,8 +66,8 @@ ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/Androi
 	android:name
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:6:9-50
 application
-ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:9:5-29:19
-INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:9:5-29:19
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:9:5-31:19
+INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:9:5-31:19
 MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/8e6f7106e9eb63f18442a217c14df724/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/8e6f7106e9eb63f18442a217c14df724/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/1613b014b2b9caddbc2e7e9ae4358e61/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -106,22 +106,28 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mango
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:17:9-47
 	android:dataExtractionRules
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:11:9-65
-activity#com.example.bosqueapp.MainActivity
-ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:20:13-28:24
+activity#com.example.bosqueapp.LoginActivity
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:20:13-27:24
 	android:exported
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:22:17-40
 	android:name
-		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:21:17-45
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:21:17-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:23:17-27:33
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:23:17-26:33
 action#android.intent.action.MAIN
 ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:24:21-73
 	android:name
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:24:29-70
 category#android.intent.category.LAUNCHER
-ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:26:21-81
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:25:21-81
 	android:name
-		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:26:31-78
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:25:31-78
+activity#com.example.bosqueapp.MainMenuActivity
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:28:9-30:39
+	android:exported
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:29:13-45
 uses-sdk
 INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml
