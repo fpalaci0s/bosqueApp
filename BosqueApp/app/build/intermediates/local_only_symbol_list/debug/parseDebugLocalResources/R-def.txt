@@ -3,6 +3,7 @@ local
 color black
 color blue
 color green
+color green_dark
 color grey
 color red
 color rose
@@ -42,6 +43,7 @@ id emailLayout
 id emailText
 id fabLogout
 id homeButton
+id linearLayout5
 id loginButton
 id main
 id mainContent

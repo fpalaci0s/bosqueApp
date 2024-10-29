@@ -11,6 +11,7 @@ class VinculationActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.vinculacion)
 
+        // barra de navegación
         val userButton: ImageButton = findViewById(R.id.userButton)
         val homeButton: ImageButton = findViewById(R.id.homeButton)
         val notificationsButton: ImageButton = findViewById(R.id.notificationsButton)
@@ -21,7 +22,7 @@ class VinculationActivity : AppCompatActivity() {
         }
 
         homeButton.setOnClickListener {
-            val intent = Intent(this, EmergencyActivity::class.java)
+            val intent = Intent(this, MainMenuActivity::class.java)
             startActivity(intent)
         }
 

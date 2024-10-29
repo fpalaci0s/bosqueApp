@@ -699,6 +699,7 @@
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
     <color name="green">#4CAF50</color>
+    <color name="green_dark">#006400</color>
     <color name="grey">#9E9E9E</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>

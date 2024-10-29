@@ -1424,6 +1424,7 @@ color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
 color green
+color green_dark
 color grey
 color highlighted_text_material_dark
 color highlighted_text_material_light
@@ -3373,6 +3374,7 @@ id legacy
 id line1
 id line3
 id linear
+id linearLayout5
 id listMode
 id list_item
 id loginButton

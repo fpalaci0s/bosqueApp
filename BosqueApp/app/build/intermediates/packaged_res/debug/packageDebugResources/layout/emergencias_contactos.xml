@@ -10,7 +10,7 @@
         android:padding="16dp"
         android:layout_above="@id/bottomNavigation">
 
-        <!-- Título de la Pantalla -->
+        <!-- pantalla titulo -->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -21,7 +21,7 @@
             android:layout_gravity="center"
             android:layout_marginBottom="24dp" />
 
-        <!-- Contactos de emergencia -->
+        <!-- contactos de emergencia -->
 
         <!-- Contacto 1: Bomberos -->
         <LinearLayout
@@ -192,7 +192,7 @@
         </LinearLayout>
     </LinearLayout>
 
-    <!-- Nueva Barra de Navegación -->
+    <!-- barra de navegación -->
     <LinearLayout
         android:id="@+id/bottomNavigation"
         android:layout_width="match_parent"

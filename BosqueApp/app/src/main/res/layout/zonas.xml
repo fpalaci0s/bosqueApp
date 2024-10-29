@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:background="@drawable/fondo">
 
-    <!-- Lista de Zonas Propensas -->
+    <!-- lista de zonas propensas -->
     <LinearLayout
         android:id="@+id/mainContent"
         android:layout_width="match_parent"
@@ -73,7 +73,7 @@
             </LinearLayout>
         </LinearLayout>
 
-        <!-- Gráfico y Detalles -->
+        <!-- gráfico y detalles que no dicen mucho pero aún así detallan -->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="310dp"
@@ -89,7 +89,6 @@
                 android:textStyle="bold"
                 android:textColor="@color/black" />
 
-            <!-- Puedes agregar un gráfico personalizado aquí -->
             <ImageView
                 android:layout_width="150dp"
                 android:layout_height="150dp"
@@ -102,13 +101,13 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="@string/rea_1500x1500_npropagaci_n_alta"
-                android:textColor="@color/black"
+                android:textColor="#E8F5E9"
                 android:textSize="16sp" />
 
         </LinearLayout>
     </LinearLayout>
 
-    <!-- Nueva Barra de Navegación -->
+    <!-- navigation bar,,, por que está en inglés? no lo sé. -->
     <LinearLayout
         android:id="@+id/bottomNavigation"
         android:layout_width="match_parent"

@@ -21,6 +21,7 @@ class LoginActivity : AppCompatActivity() {
             val username = usernameInput.text.toString()
             val password = passwordInput.text.toString()
 
+            //acá se hace uso del try catch!
             try {
                 if (authenticateUser(username, password)) {
                     startActivity(Intent(this, MainMenuActivity::class.java))
@@ -32,7 +33,7 @@ class LoginActivity : AppCompatActivity() {
             }
         }
     }
-
+    // esta funcion es la que guarda el usuario y la contraseña
     private fun authenticateUser(username: String, password: String): Boolean {
         val validUsername = "admin"
         val validPassword = "password"

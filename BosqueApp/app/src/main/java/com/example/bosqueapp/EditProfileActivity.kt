@@ -12,7 +12,7 @@ import android.text.TextWatcher
 import android.annotation.SuppressLint
 
 class EditProfileActivity : AppCompatActivity() {
-
+    // se almacenan las referencias
     private lateinit var nameEditText: TextInputEditText
     private lateinit var emailEditText: TextInputEditText
     private lateinit var phoneEditText: TextInputEditText
@@ -39,7 +39,7 @@ class EditProfileActivity : AppCompatActivity() {
             val newEmail = emailEditText.text.toString()
             val newPhone = phoneEditText.text.toString()
 
-            // Validación del número de teléfono?
+            // Validación del número de teléfono
             if (!isValidChileanPhoneNumber(newPhone)) {
                 Toast.makeText(this, "Número de teléfono inválido. Debe comenzar con +569 y tener 8 dígitos adicionales.", Toast.LENGTH_SHORT).show()
                 return@setOnClickListener
@@ -64,7 +64,7 @@ class EditProfileActivity : AppCompatActivity() {
         phoneEditText.setText("+569")  // Establecer el prefijo
         phoneEditText.setSelection(phoneEditText.text?.length ?: 0)  // Colocar el cursor al final¿
 
-        // Prevenir que se modifique el prefijo. ( dolor )
+        // prevenir que se modifique el prefijo. ( dolor )
         phoneEditText.addTextChangedListener(object : TextWatcher {
             override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) {}
             override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {
@@ -81,7 +81,7 @@ class EditProfileActivity : AppCompatActivity() {
         val sharedPreferences = getSharedPreferences("UserProfile", Context.MODE_PRIVATE)
         nameEditText.setText(sharedPreferences.getString("name", ""))
         emailEditText.setText(sharedPreferences.getString("email", ""))
-        phoneEditText.setText(sharedPreferences.getString("phone", "+569"))  // Configurar +569 si no hay datos
+        phoneEditText.setText(sharedPreferences.getString("phone", "+569"))  // configurar +569
     }
 
     private fun saveProfileData(name: String, email: String, phone: String) { // esto guarda

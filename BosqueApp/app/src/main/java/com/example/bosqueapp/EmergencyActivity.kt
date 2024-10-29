@@ -13,12 +13,11 @@ class EmergencyActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.emergencias_contactos)
 
-        // Inicializar botones de navegación
+        // barra de navegación
         val userButton: ImageButton = findViewById(R.id.userButton)
         val homeButton: ImageButton = findViewById(R.id.homeButton)
         val notificationsButton: ImageButton = findViewById(R.id.notificationsButton)
 
-        // Configurar listeners para la navegación
         userButton.setOnClickListener {
             val intent = Intent(this, ProfileActivity::class.java)
             startActivity(intent)
@@ -35,8 +34,9 @@ class EmergencyActivity : AppCompatActivity() {
         }
     }
 
-    // Funciones para llamadas de emergencia
-    fun callBomberos(view: View) {
+    // funciones para llamadas de emergencia
+    // se han suprimido las alertas "UNUSED_PARAMETER", ya que los parametros SI se están usando.
+    fun callBomberos(@Suppress("UNUSED_PARAMETER") view: View) {
         val intent = Intent(Intent.ACTION_DIAL)
         intent.data = Uri.parse("tel:132") // Número de bomberos
         startActivity(intent)
@@ -48,13 +48,13 @@ class EmergencyActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
-    fun callAmbulance(view: View) {
+    fun callAmbulance(@Suppress("UNUSED_PARAMETER") view: View) {
         val intent = Intent(Intent.ACTION_DIAL)
         intent.data = Uri.parse("tel:131") // Número de ambulancia
         startActivity(intent)
     }
 
-    fun callConaf(view: View) {
+    fun callConaf(@Suppress("UNUSED_PARAMETER") view: View) {
         val intent = Intent(Intent.ACTION_DIAL)
         intent.data = Uri.parse("tel:130") // Número de CONAF
         startActivity(intent)

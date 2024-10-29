@@ -22,13 +22,13 @@ class ProfileActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.perfil)
 
-        // Inicializa los elementos de vista
+        // inicializa los elementos de vista
         usernameText = findViewById(R.id.usernameText)
         emailText = findViewById(R.id.emailText)
         phoneText = findViewById(R.id.phoneText)
         val editProfileButton: MaterialButton = findViewById(R.id.editProfileButton)
 
-        // Cargar datos guardados en SharedPreferences
+        // cargar datos guardados en SharedPreferences
         loadProfileData()
 
         // Inicializa el ActivityResultLauncher
@@ -38,19 +38,19 @@ class ProfileActivity : AppCompatActivity() {
             }
         }
 
-        // Botón de editar perfil
+        // botón de editar perfil
         editProfileButton.setOnClickListener {
             val intent = Intent(this, EditProfileActivity::class.java)
             editProfileLauncher.launch(intent)
         }
 
-        // Inicializar botones de navegación
+        // barra de navegación
         val userButton: ImageButton = findViewById(R.id.userButton)
         val homeButton: ImageButton = findViewById(R.id.homeButton)
         val notificationsButton: ImageButton = findViewById(R.id.notificationsButton)
 
         userButton.setOnClickListener {
-            // Mostrar un Toast indicando que ya estás en ProfileActivity
+            // mostrar un Toast indicando que ya estás en profileActivity
             Toast.makeText(this, "Ya estás aquí", Toast.LENGTH_SHORT).show()
         }
 
@@ -64,9 +64,10 @@ class ProfileActivity : AppCompatActivity() {
             startActivity(intent)
         }
     }
-
+    //esto cargaa los datos de perfil
     private fun loadProfileData() {
         val sharedPreferences = getSharedPreferences("UserProfile", Context.MODE_PRIVATE)
+        // El Context.MODE_PRIVATE se usa para guardar las preferencias del usuario... según las noticias
         usernameText.text = sharedPreferences.getString("name", "Tu nombre de usuario")
         emailText.text = sharedPreferences.getString("email", "Tu correo electrónico")
         phoneText.text = sharedPreferences.getString("phone", "X")

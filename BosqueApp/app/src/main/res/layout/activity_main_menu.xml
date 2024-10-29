@@ -18,6 +18,7 @@
             android:layout_height="?attr/actionBarSize"
             app:title="@string/main_menu"
             app:titleTextColor="@color/white"
+            android:background="@color/green_dark"
             style="@style/Widget.MaterialComponents.Toolbar.Primary"/>
 
     </com.google.android.material.appbar.AppBarLayout>
@@ -33,7 +34,7 @@
             android:orientation="vertical"
             android:padding="16dp">
 
-            <!-- Tarjeta de Perfil -->
+            <!-- perfilazo -->
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cardProfile"
                 android:layout_width="match_parent"
@@ -78,7 +79,7 @@
                     </LinearLayout>
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
-            <!-- Tarjeta de Contactos de Emergencia -->
+            <!-- emergenciasss -->
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cardEmergencyContacts"
                 android:layout_width="match_parent"
@@ -123,7 +124,7 @@
                     </LinearLayout>
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
-            <!-- Tarjeta de Vinculación -->
+            <!-- vinculasion -->
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cardVinculacion"
                 android:layout_width="match_parent"
@@ -168,7 +169,7 @@
                     </LinearLayout>
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
-            <!-- Tarjeta de Zonas -->
+            <!-- zonass -->
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cardZone"
                 android:layout_width="match_parent"
@@ -213,7 +214,7 @@
                     </LinearLayout>
                 </LinearLayout>
             </com.google.android.material.card.MaterialCardView>
-            <!-- Tarjeta de Notificationes -->
+            <!-- notificacion -->
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cardNotifications"
                 android:layout_width="match_parent"
@@ -261,7 +262,7 @@
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
 
-    <!-- Botón flotante para Cerrar Sesión -->
+    <!-- cerrador de sesiones definitiva 777-->
     <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
         android:id="@+id/fabLogout"
         android:layout_width="wrap_content"

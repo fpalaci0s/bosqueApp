@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/fondo">
 
-    <!-- Contenido Desplazable -->
+    <!-- contenido que se desplaza, el scrollview servirá para un futuro. -->
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -30,7 +30,7 @@
                 android:padding="16dp"
                 tools:ignore="ContentDescription">
             </ImageView>
-            <!-- Nombre del usuario -->
+            <!-- nombre del usuario -->
             <TextView
                 android:id="@+id/usernameText"
                 android:layout_width="wrap_content"
@@ -41,7 +41,7 @@
                 android:textColor="@color/black"
                 android:layout_marginBottom="8dp">
             </TextView>
-            <!-- Correo electrónico del usuario -->
+            <!-- correo electrónico del usuario -->
             <TextView
                 android:id="@+id/emailText"
                 android:layout_width="wrap_content"
@@ -51,7 +51,7 @@
                 android:textColor="@color/black"
                 android:layout_marginBottom="16dp">
             </TextView>
-            <!-- Número de teléfono -->
+            <!-- número de teléfono (supuestamente del usuario) -->
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -70,7 +70,7 @@
                 android:textColor="@color/black"
                 android:layout_marginBottom="24dp">
             </TextView>
-            <!-- Botón de edición de perfil -->
+            <!-- botón de edición de perfil (jaja ya está listo el crud, y mi 7?)-->
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/editProfileButton"
                 android:layout_width="wrap_content"
@@ -81,7 +81,7 @@
                 android:layout_marginBottom="24dp" />
         </LinearLayout>
     </ScrollView>
-    <!-- Barra de Navegación Inferior -->
+    <!-- barra de navegación (me aburre poner esto) -->
     <LinearLayout
         android:id="@+id/bottomNavigation"
         android:layout_width="match_parent"
@@ -91,7 +91,6 @@
         android:elevation="8dp"
         android:orientation="horizontal">
 
-        <!-- Icono de Usuario -->
         <ImageButton
             android:id="@+id/userButton"
             android:layout_width="0dp"
@@ -104,7 +103,6 @@
             android:src="@drawable/user">
         </ImageButton>
 
-        <!-- Icono de Inicio -->
         <ImageButton
             android:id="@+id/homeButton"
             android:layout_width="0dp"
@@ -117,7 +115,6 @@
             android:src="@drawable/house_outline">
         </ImageButton>
 
-        <!-- Icono de Notificaciones -->
         <ImageButton
             android:id="@+id/notificationsButton"
             android:layout_width="0dp"

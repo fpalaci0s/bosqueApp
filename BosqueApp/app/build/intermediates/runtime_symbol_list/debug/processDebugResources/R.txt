@@ -1423,6 +1423,7 @@ int color error_color_material_light 0x7f05005c
 int color foreground_material_dark 0x7f05005d
 int color foreground_material_light 0x7f05005e
 int color green 0x7f05005f
+int color green_dark 0x7f05030c
 int color grey 0x7f050060
 int color highlighted_text_material_dark 0x7f050061
 int color highlighted_text_material_light 0x7f050062
@@ -3372,6 +3373,7 @@ int id legacy 0x7f0800f0
 int id line1 0x7f0800f1
 int id line3 0x7f0800f2
 int id linear 0x7f0800f3
+int id linearLayout5 0x7f080219
 int id listMode 0x7f0800f4
 int id list_item 0x7f0800f5
 int id loginButton 0x7f0800f7
