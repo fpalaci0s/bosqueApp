@@ -5,6 +5,7 @@ import android.net.Uri
 import android.os.Bundle
 import android.view.View
 import android.widget.ImageButton
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
 class EmergencyActivity : AppCompatActivity() {
@@ -39,24 +40,41 @@ class EmergencyActivity : AppCompatActivity() {
     fun callBomberos(@Suppress("UNUSED_PARAMETER") view: View) {
         val intent = Intent(Intent.ACTION_DIAL)
         intent.data = Uri.parse("tel:132") // Número de bomberos
-        startActivity(intent)
+        try {
+            startActivity(intent)
+        } catch (e: Exception) {
+            Toast.makeText(this, "Error inesperado: ${e.message}", Toast.LENGTH_LONG).show()
+        }
     }
 
     fun callCarabineros() {
         val intent = Intent(Intent.ACTION_DIAL)
         intent.data = Uri.parse("tel:133") // Número de carabineros
-        startActivity(intent)
+        try {
+            startActivity(intent)
+        } catch (e: Exception) {
+            Toast.makeText(this, "Error inesperado: ${e.message}", Toast.LENGTH_LONG).show()
+        }
     }
 
     fun callAmbulance(@Suppress("UNUSED_PARAMETER") view: View) {
         val intent = Intent(Intent.ACTION_DIAL)
         intent.data = Uri.parse("tel:131") // Número de ambulancia
-        startActivity(intent)
+        try {
+            startActivity(intent)
+        } catch (e: Exception) {
+            Toast.makeText(this, "Error inesperado: ${e.message}", Toast.LENGTH_LONG).show()
+        }
     }
 
     fun callConaf(@Suppress("UNUSED_PARAMETER") view: View) {
         val intent = Intent(Intent.ACTION_DIAL)
         intent.data = Uri.parse("tel:130") // Número de CONAF
-        startActivity(intent)
+        try {
+            startActivity(intent)
+        } catch (e: Exception) {
+            // Manejar el error si es necesario
+            // Puedes mostrar un mensaje al usuario
+        }
     }
 }

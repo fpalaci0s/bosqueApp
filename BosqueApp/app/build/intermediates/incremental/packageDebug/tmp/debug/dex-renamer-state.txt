@@ -1,4 +1,4 @@
-#Tue Oct 29 15:07:59 CLST 2024
+#Tue Oct 29 17:19:04 CLST 2024
 base.0=/home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex

@@ -21,7 +21,6 @@ class LoginActivity : AppCompatActivity() {
             val username = usernameInput.text.toString()
             val password = passwordInput.text.toString()
 
-            //acá se hace uso del try catch!
             try {
                 if (authenticateUser(username, password)) {
                     startActivity(Intent(this, MainMenuActivity::class.java))

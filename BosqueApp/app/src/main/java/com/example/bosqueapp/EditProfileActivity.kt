@@ -48,14 +48,17 @@ class EditProfileActivity : AppCompatActivity() {
             // Formatear el número de teléfono antes de guardar (épico)
             val formattedPhone = formatChileanPhoneNumber(newPhone)
 
-            // Guardar los cambios en SharedPreferences ( si
-            saveProfileData(newName, newEmail, formattedPhone)
+            // Guardar los cambios en SharedPreferences
+            try {
+                saveProfileData(newName, newEmail, formattedPhone)
+                Toast.makeText(this, "Perfil actualizado", Toast.LENGTH_SHORT).show()
 
-            Toast.makeText(this, "Perfil actualizado", Toast.LENGTH_SHORT).show()
-
-            // Volver a la actividad anterior con los datos actualizados (ayayayy)
-            setResult(RESULT_OK, Intent())
-            finish()
+                // Volver a la actividad anterior con los datos actualizados (ayayayy)
+                setResult(RESULT_OK, Intent())
+                finish()
+            } catch (e: Exception) {
+                Toast.makeText(this, "Error al guardar los datos: ${e.message}", Toast.LENGTH_SHORT).show()
+            }
         }
     }
 
@@ -79,18 +82,26 @@ class EditProfileActivity : AppCompatActivity() {
 
     private fun loadProfileData() { // esto carga
         val sharedPreferences = getSharedPreferences("UserProfile", Context.MODE_PRIVATE)
-        nameEditText.setText(sharedPreferences.getString("name", ""))
-        emailEditText.setText(sharedPreferences.getString("email", ""))
-        phoneEditText.setText(sharedPreferences.getString("phone", "+569"))  // configurar +569
+        try {
+            nameEditText.setText(sharedPreferences.getString("name", ""))
+            emailEditText.setText(sharedPreferences.getString("email", ""))
+            phoneEditText.setText(sharedPreferences.getString("phone", "+569"))  // configurar +569
+        } catch (e: Exception) {
+            Toast.makeText(this, "Error al cargar los datos: ${e.message}", Toast.LENGTH_SHORT).show()
+        }
     }
 
     private fun saveProfileData(name: String, email: String, phone: String) { // esto guarda
         val sharedPreferences = getSharedPreferences("UserProfile", Context.MODE_PRIVATE)
-        with(sharedPreferences.edit()) {
-            putString("name", name)
-            putString("email", email)
-            putString("phone", phone)
-            apply()
+        try {
+            with(sharedPreferences.edit()) {
+                putString("name", name)
+                putString("email", email)
+                putString("phone", phone)
+                apply()
+            }
+        } catch (e: Exception) {
+            Toast.makeText(this, "Error inesperado: ${e.message}", Toast.LENGTH_LONG).show()
         }
     }
 

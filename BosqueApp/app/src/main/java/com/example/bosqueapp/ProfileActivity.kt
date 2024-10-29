@@ -31,19 +31,21 @@ class ProfileActivity : AppCompatActivity() {
         // cargar datos guardados en SharedPreferences
         loadProfileData()
 
-        // Inicializa el ActivityResultLauncher
+        // inicializa el ActivityResultLauncher
         editProfileLauncher = registerForActivityResult(ActivityResultContracts.StartActivityForResult()) { result ->
             if (result.resultCode == RESULT_OK) {
                 loadProfileData() // Recargar los datos después de la edición
             }
         }
-
         // botón de editar perfil
         editProfileButton.setOnClickListener {
             val intent = Intent(this, EditProfileActivity::class.java)
-            editProfileLauncher.launch(intent)
+            try {
+                editProfileLauncher.launch(intent)
+            } catch (e: Exception) {
+                Toast.makeText(this, "Error al abrir la pantalla de edición", Toast.LENGTH_SHORT).show()
+            }
         }
-
         // barra de navegación
         val userButton: ImageButton = findViewById(R.id.userButton)
         val homeButton: ImageButton = findViewById(R.id.homeButton)
@@ -56,12 +58,20 @@ class ProfileActivity : AppCompatActivity() {
 
         homeButton.setOnClickListener {
             val intent = Intent(this, MainMenuActivity::class.java)
-            startActivity(intent)
+            try {
+                startActivity(intent)
+            } catch (e: Exception) {
+                Toast.makeText(this, "Error al ir a la pantalla principal", Toast.LENGTH_SHORT).show()
+            }
         }
 
         notificationsButton.setOnClickListener {
             val intent = Intent(this, NotificationsActivity::class.java)
-            startActivity(intent)
+            try {
+                startActivity(intent)
+            } catch (e: Exception) {
+                Toast.makeText(this, "Error al ir a notificaciones", Toast.LENGTH_SHORT).show()
+            }
         }
     }
     //esto cargaa los datos de perfil

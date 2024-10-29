@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.button.MaterialButton
 import com.google.android.material.card.MaterialCardView
 import android.content.Context
+import android.widget.Toast
 
 class MainMenuActivity : AppCompatActivity() {
 
@@ -24,31 +25,51 @@ class MainMenuActivity : AppCompatActivity() {
         // acción para la tarjeta de perfil
         cardProfile.setOnClickListener {
             val intent = Intent(this, ProfileActivity::class.java)
-            startActivity(intent)
+            try {
+                startActivity(intent)
+            } catch (e: Exception) {
+                Toast.makeText(this, "Error inesperado: ${e.message}", Toast.LENGTH_LONG).show()
+            }
         }
 
         // acción para la tarjeta de contactos de emergencia
         cardEmergencyContacts.setOnClickListener {
             val intent = Intent(this, EmergencyActivity::class.java)
-            startActivity(intent)
+            try {
+                startActivity(intent)
+            } catch (e: Exception) {
+                Toast.makeText(this, "Error inesperado: ${e.message}", Toast.LENGTH_LONG).show()
+            }
         }
 
         // acción para la tarjeta de vinculación
         cardVinculacion.setOnClickListener {
-            val intent = Intent(this, VinculationActivity::class.java) // Cambia a la actividad correspondiente
-            startActivity(intent)
+            val intent = Intent(this, VinculationActivity::class.java)
+            try {
+                startActivity(intent)
+            } catch (e: Exception) {
+                Toast.makeText(this, "Error inesperado: ${e.message}", Toast.LENGTH_LONG).show()
+            }
         }
 
         // acción para la tarjeta de zonas
         cardZone.setOnClickListener {
-            val intent = Intent(this, ZoneActivity::class.java) // Cambia a la actividad correspondiente
-            startActivity(intent)
+            val intent = Intent(this, ZoneActivity::class.java)
+            try {
+                startActivity(intent)
+            } catch (e: Exception) {
+                Toast.makeText(this, "Error inesperado: ${e.message}", Toast.LENGTH_LONG).show()
+            }
         }
 
         // acción para la tarjeta de notificaciones
         cardNotifications.setOnClickListener {
-            val intent = Intent(this, NotificationsActivity::class.java) // Cambia a la actividad correspondiente
-            startActivity(intent)
+            val intent = Intent(this, NotificationsActivity::class.java)
+            try {
+                startActivity(intent)
+            } catch (e: Exception) {
+                Toast.makeText(this, "Error inesperado: ${e.message}", Toast.LENGTH_LONG).show()
+            }
         }
 
         // acción para el botón de cerrar sesión
@@ -68,7 +89,11 @@ class MainMenuActivity : AppCompatActivity() {
         // redirigir a la pantalla de inicio de sesión
         val loginIntent = Intent(this, LoginActivity::class.java)
         loginIntent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
-        startActivity(loginIntent)
+        try {
+            startActivity(loginIntent)
+        } catch (e: Exception) {
+            Toast.makeText(this, "Error inesperado: ${e.message}", Toast.LENGTH_LONG).show()
+        }
         finish()
     }
 }
