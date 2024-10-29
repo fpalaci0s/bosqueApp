@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo">
+
+    <!-- Contenido Desplazable -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottomNavigation"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <!-- Imagen de perfil -->
+            <ImageView
+                android:id="@+id/profileImage"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginBottom="16dp"
+                android:src="@drawable/user"
+                android:background="@drawable/circle"
+                android:adjustViewBounds="true"
+                android:layout_gravity="center"
+                android:scaleType="fitCenter"
+                android:padding="16dp"
+                tools:ignore="ContentDescription" />
+
+            <!-- Nombre del usuario -->
+            <TextView
+                android:id="@+id/usernameText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tu_nombre_de_usuario"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:layout_marginBottom="8dp" />
+
+            <!-- Correo electrónico del usuario -->
+            <TextView
+                android:id="@+id/emailText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tu_correo_electr_nico"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Botón de edición de perfil -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/editProfileButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/edita_tu_perfil"
+                android:backgroundTint="@color/black"
+                android:textColor="@android:color/white"
+                android:layout_marginBottom="24dp" />
+
+            <!-- Información adicional del usuario -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tu_numero_de_tel_fono"
+                android:textSize="14sp"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp" />
+
+            <TextView
+                android:id="@+id/phoneText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/x"
+                android:textSize="16sp"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </ScrollView>
+
+    <!-- Barra de Navegación Inferior -->
+    <LinearLayout
+        android:id="@+id/bottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white"
+        android:elevation="8dp"
+        android:orientation="horizontal">
+
+        <!-- Icono de Usuario -->
+        <ImageButton
+            android:id="@+id/userButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="@string/usuariobutton"
+            android:padding="12dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/user" />
+
+        <!-- Icono de Inicio -->
+        <ImageButton
+            android:id="@+id/homeButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="@string/inicio"
+            android:padding="12dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/house_outline" />
+
+        <!-- Icono de Notificaciones -->
+        <ImageButton
+            android:id="@+id/notificationsButton"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="?android:attr/selectableItemBackground"
+            android:contentDescription="@string/notificacionesacc"
+            android:padding="12dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/notification_icon" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -34,6 +34,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.ForestApp" >
         <activity
+            android:name="com.example.bosqueapp.EditProfileActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.bosqueapp.EmergencyActivity"
+            android:exported="true" />
+        <activity
             android:name="com.example.bosqueapp.LoginActivity"
             android:exported="true" >
             <intent-filter>
@@ -44,6 +50,18 @@
         </activity>
         <activity
             android:name="com.example.bosqueapp.MainMenuActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.bosqueapp.NotificationsActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.bosqueapp.ProfileActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.bosqueapp.VinculationActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.bosqueapp.ZoneActivity"
             android:exported="true" />
 
         <provider

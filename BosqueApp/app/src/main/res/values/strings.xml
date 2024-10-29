@@ -60,4 +60,27 @@
     <string name="profile">Tu perfil</string>
     <string name="settings">Opciones</string>
     <string name="logout">Cerrar Sesión</string>
+    <string name="tu_nombre_de_usuario">Tu nombre de usuario</string>
+    <string name="tu_foto_de_perfil">Tu foto de perfil</string>
+    <string name="tu_correo_electr_nico">Tu correo electrónico</string>
+    <string name="edita_tu_perfil">Edita tu perfil</string>
+    <string name="tu_numero_de_tel_fono">Tu numero de teléfono</string>
+    <string name="x">+569XXXXXXXX</string>
+    <string name="tu_nombre">Tu nombre</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="guardar_cambios">Guardar cambios</string>
+    <string name="editar_perfil">Editar perfil</string>
+    <string name="icono_de_perfil">icono de perfil</string>
+    <string name="mira_tu_perfil">Mira tu perfil</string>
+    <string name="icono_de_contacto_de_emergencia">icono de contacto de emergencia</string>
+    <string name="contactos_de_emergencia2">Contactos de emergencia</string>
+    <string name="acude_a_los_servicios_de_emergencias">Acude a los servicios de emergencias</string>
+    <string name="icono_de_vinculaci_n_de_dispositivo">Icono de vinculación de dispositivo</string>
+    <string name="vincular_a_sensor">Vincular a sensor</string>
+    <string name="icono_de_zona">Icono de zona</string>
+    <string name="tu_zona">Tu zona</string>
+    <string name="mira_la_informaci_n_de_los_bosques_cercanos">Mira la información de los bosques cercanos</string>
+    <string name="icono_de_notificaciones">icono de notificaciones</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="revisa_las_notificaciones">Revisa las notificaciones</string>
 </resources>
