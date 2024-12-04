@@ -25,28 +25,40 @@
     <string name="carabineros_y_policia_de_chile">carabineros y policia de Chile</string>
     <string name="conaf">CONAF</string>
     <string name="conaficon">ConafIcon</string>
+    <string name="confirme_su_contrase_a">Confirme su contraseña</string>
     <string name="contactos_de_emergencia">Contactos de Emergencia</string>
     <string name="contactos_de_emergencia2">Contactos de emergencia</string>
     <string name="contrase_a_hint">Contraseña hint</string>
     <string name="correo">Correo electrónico</string>
+    <string name="crea_los_dispositivos_a_usar">Crea los dispositivos a usar</string>
+    <string name="creaci_n_de_dispositivos">Creación de Dispositivos</string>
     <string name="crear_cuenta">crear cuenta</string>
+    <string name="crear_dispositivo">Crear Dispositivo</string>
     <string name="cuenta_de_facebook">cuenta de facebook</string>
     <string name="cuenta_de_google">cuenta de google</string>
     <string name="cuenta_de_instagram">cuenta de instagram</string>
     <string name="dispositivos_vinculados">Dispositivos vinculados</string>
     <string name="edita_tu_perfil">Edita tu perfil</string>
     <string name="editar_perfil">Editar perfil</string>
+    <string name="gcm_defaultSenderId" translatable="false">723988887605</string>
+    <string name="google_api_key" translatable="false">AIzaSyDM2FrdYqxDythoXpDyJkBZf4t3LAOaxc4</string>
+    <string name="google_app_id" translatable="false">1:723988887605:android:b1315b09fed2a90690597c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDM2FrdYqxDythoXpDyJkBZf4t3LAOaxc4</string>
+    <string name="google_storage_bucket" translatable="false">bosqueapp-66ff5.firebasestorage.app</string>
     <string name="grafico">grafico</string>
     <string name="guardar_cambios">Guardar cambios</string>
+    <string name="guardar_dispositivo">Guardar dispositivo</string>
     <string name="icono_de_contacto_de_emergencia">icono de contacto de emergencia</string>
     <string name="icono_de_notificaciones">icono de notificaciones</string>
     <string name="icono_de_perfil">icono de perfil</string>
     <string name="icono_de_vinculaci_n_de_dispositivo">Icono de vinculación de dispositivo</string>
     <string name="icono_de_zona">Icono de zona</string>
+    <string name="indique_su_correo_electr_nico">Indique su correo electrónico</string>
     <string name="iniciar">Acceder</string>
     <string name="iniciar_sesion">Inicie sesión</string>
     <string name="inicio">Inicio</string>
     <string name="insertar_dispositivos_vinculados">Insertar dispositivos vinculados</string>
+    <string name="lista_de_dispositivos">Lista de Dispositivos</string>
     <string name="llamar_a_bomberos">Llamar a bomberos</string>
     <string name="llamar_a_servicios_de_emergencia">Llamar a servicios de emergencia</string>
     <string name="llamar_ambulancia">Llamar Ambulancia</string>
@@ -63,6 +75,8 @@
     <string name="n_mero_132">Número: 132</string>
     <string name="n_mero_133">Número: 133</string>
     <string name="no_tiene_una_cuenta">¿no tiene una cuenta?</string>
+    <string name="no_tienes_cuenta_registrate_aqu">No tienes cuenta? Registrate aquí</string>
+    <string name="nombre_del_dispositivo">Nombre del dispositivo</string>
     <string name="nombre_usuario_hint">Nombre Usuario Hint</string>
     <string name="notificaciones">Notificaciones</string>
     <string name="notificacionesacc">NotificacionesAcc</string>
@@ -70,8 +84,11 @@
     <string name="peligro">Peligro!</string>
     <string name="peligroacc">Peligro</string>
     <string name="profile">Tu perfil</string>
+    <string name="project_id" translatable="false">bosqueapp-66ff5</string>
     <string name="rea_1500x1500_npropagaci_n_alta">Héctareas: 1500\nPropagación: Media</string>
     <string name="recordar_contrase_a">¿Ólvidaste tu contraseña?</string>
+    <string name="registraci_n">Registración</string>
+    <string name="registrarse">Registrarse</string>
     <string name="revisa_las_notificaciones">Revisa las notificaciones</string>
     <string name="se_al_de_peligro">Señal de peligro</string>
     <string name="selecione_cuenta_a_vincular">selecione cuenta a vincular</string>
@@ -86,6 +103,7 @@
     <string name="username">Ingrese su nombre de usuario</string>
     <string name="usuariobutton">UsuarioButton</string>
     <string name="utilizar_sensor_en_este_dispositivo">Utilizar el sensor para este dispositivo</string>
+    <string name="ver_dispositivo">Ver dispositivo</string>
     <string name="vincular_a_sensor">Vincular a sensor</string>
     <string name="vincular_cuanta">vincular cuanta</string>
     <string name="vincular_cuenta">vincular cuenta</string>

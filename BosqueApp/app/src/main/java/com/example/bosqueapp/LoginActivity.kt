@@ -2,40 +2,57 @@ package com.example.bosqueapp
 
 import android.content.Intent
 import android.os.Bundle
-import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.google.android.material.textfield.TextInputEditText
+import com.example.bosqueapp.databinding.InicioSesionBinding
+import com.google.firebase.auth.FirebaseAuth
 
 class LoginActivity : AppCompatActivity() {
 
+    private lateinit var binding: InicioSesionBinding
+    private lateinit var auth: FirebaseAuth
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.inicio_sesion)
 
-        val loginButton: Button = findViewById(R.id.loginButton)
-        val usernameInput: TextInputEditText = findViewById(R.id.usernameInput)
-        val passwordInput: TextInputEditText = findViewById(R.id.passwordInput)
+        // Inicializar Firebase Auth
+        auth = FirebaseAuth.getInstance()
 
-        loginButton.setOnClickListener {
-            val username = usernameInput.text.toString()
-            val password = passwordInput.text.toString()
+        // Configurar ViewBinding
+        binding = InicioSesionBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
-            try {
-                if (authenticateUser(username, password)) {
-                    startActivity(Intent(this, MainMenuActivity::class.java))
-                } else {
-                    Toast.makeText(this, "Usuario o contraseña incorrectos", Toast.LENGTH_SHORT).show()
-                }
-            } catch (e: Exception) {
-                Toast.makeText(this, "Error inesperado: ${e.message}", Toast.LENGTH_LONG).show()
+        // Manejar clic en el botón "Iniciar sesión"
+        binding.loginButton.setOnClickListener {
+            val email = binding.usernameInput.text.toString()
+            val password = binding.passwordInput.text.toString()
+
+            if (email.isEmpty() || password.isEmpty()) {
+                Toast.makeText(this, "Por favor, ingresa todos los campos", Toast.LENGTH_SHORT).show()
+            } else {
+                loginUser(email, password)
             }
         }
+
+        // Manejar clic en "¿No tienes cuenta? Regístrate aquí"
+        binding.registerText.setOnClickListener {
+            val intent = Intent(this, RegisterActivity::class.java)
+            startActivity(intent)
+        }
     }
-    // esta funcion es la que guarda el usuario y la contraseña
-    private fun authenticateUser(username: String, password: String): Boolean {
-        val validUsername = "admin"
-        val validPassword = "password"
-        return username == validUsername && password == validPassword
+
+    private fun loginUser(email: String, password: String) {
+        auth.signInWithEmailAndPassword(email, password)
+            .addOnCompleteListener(this) { task ->
+                if (task.isSuccessful) {
+                    // Inicio de sesión exitoso
+                    val user = auth.currentUser
+                    Toast.makeText(this, "¡Bienvenido ${user?.email}!", Toast.LENGTH_SHORT).show()
+                    startActivity(Intent(this, MainMenuActivity::class.java))
+                } else {
+                    // Fallo en el inicio de sesión
+                    Toast.makeText(this, "Error: ${task.exception?.message}", Toast.LENGTH_SHORT).show()
+                }
+            }
     }
 }

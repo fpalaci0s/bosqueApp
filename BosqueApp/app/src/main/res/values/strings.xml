@@ -83,4 +83,16 @@
     <string name="icono_de_notificaciones">icono de notificaciones</string>
     <string name="notificaciones">Notificaciones</string>
     <string name="revisa_las_notificaciones">Revisa las notificaciones</string>
+    <string name="crear_dispositivo">Crear Dispositivo</string>
+    <string name="lista_de_dispositivos">Lista de Dispositivos</string>
+    <string name="creaci_n_de_dispositivos">Creación de Dispositivos</string>
+    <string name="nombre_del_dispositivo">Nombre del dispositivo</string>
+    <string name="guardar_dispositivo">Guardar dispositivo</string>
+    <string name="ver_dispositivo">Ver dispositivo</string>
+    <string name="confirme_su_contrase_a">Confirme su contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="registraci_n">Registración</string>
+    <string name="no_tienes_cuenta_registrate_aqu">No tienes cuenta? Registrate aquí</string>
+    <string name="crea_los_dispositivos_a_usar">Crea los dispositivos a usar</string>
+    <string name="indique_su_correo_electr_nico">Indique su correo electrónico</string>
 </resources>

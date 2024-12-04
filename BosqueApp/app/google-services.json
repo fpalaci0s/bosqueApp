@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723988887605",
+    "project_id": "bosqueapp-66ff5",
+    "storage_bucket": "bosqueapp-66ff5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723988887605:android:b1315b09fed2a90690597c",
+        "android_client_info": {
+          "package_name": "com.example.bosqueapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM2FrdYqxDythoXpDyJkBZf4t3LAOaxc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

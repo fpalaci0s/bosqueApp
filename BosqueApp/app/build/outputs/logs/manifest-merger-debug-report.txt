@@ -1,50 +1,87 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-44:12
-MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/8e6f7106e9eb63f18442a217c14df724/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/1613b014b2b9caddbc2e7e9ae4358e61/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/mango/.gradle/caches/8.9/transforms/1fb93f5502dceb4f49a30e5733d51ef6/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.appcompat:appcompat:1.7.0] /home/mango/.gradle/caches/8.9/transforms/f3ba4377d00610daa2fd752ef99f0fda/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mango/.gradle/caches/8.9/transforms/4098cab129aa6423f7042394abe4106b/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.5.4] /home/mango/.gradle/caches/8.9/transforms/ead74333d41f6535736603941c06954d/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.9.2] /home/mango/.gradle/caches/8.9/transforms/f9023202f96507420d372eb658d4714c/transformed/activity-1.9.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.13.1] /home/mango/.gradle/caches/8.9/transforms/74183ad5df4065751ce00dfc18f1f39d/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/mango/.gradle/caches/8.9/transforms/b9a637176e433479e3c088660dce8b54/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mango/.gradle/caches/8.9/transforms/bc99e1ee7af7be24ca38ef2aa754c3b1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mango/.gradle/caches/8.9/transforms/00953f9b35996bb348d8f6b7dbc55063/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.5.0] /home/mango/.gradle/caches/8.9/transforms/c96c7dcb4cc98cee6a5f14fc769c0a36/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/mango/.gradle/caches/8.9/transforms/b4beb1f2de18610f2bd6dd5e42aad366/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mango/.gradle/caches/8.9/transforms/d10576c899b56a76253a9356903c7458/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mango/.gradle/caches/8.9/transforms/85ee42a50e04b6bdada12b9ad3feeb7e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mango/.gradle/caches/8.9/transforms/feaba2026f0e2d3acb56c23ff3f41411/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/mango/.gradle/caches/8.9/transforms/ee1bd65d67b661cafca1ef9ec5c801ab/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/4a309cd1f1105e0529f885527ade0567/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/0c06fb6112b3259c69d821a39f1cd71c/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/907d52b06719d1795dc492f2e9f7ce64/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/mango/.gradle/caches/8.9/transforms/f441d5119a685a2d1ec1f2cdd99d6e0a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e477cc7bf0460a66d145479d0166544e/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e97e7b2445450c8ffba881dee75c6504/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/mango/.gradle/caches/8.9/transforms/14218f6f369ec87a086ffc35c7949ec2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/mango/.gradle/caches/8.9/transforms/c636e42f1fb880652f2570079b7b45bb/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/mango/.gradle/caches/8.9/transforms/bf77edbe227b05c83474c8c11065a7f0/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /home/mango/.gradle/caches/8.9/transforms/374eb4f86feb2b408d87453590bf16b0/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/mango/.gradle/caches/8.9/transforms/accda56bd5f1ff2fb11444cae6e895c3/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mango/.gradle/caches/8.9/transforms/af76e953af4faf6803f59ba0d892d216/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/mango/.gradle/caches/8.9/transforms/5b53fb897b275a286a939a324280bc5f/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/b971bbcdad83849a03645e9b397642f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] /home/mango/.gradle/caches/8.9/transforms/1648e1a012531ef6122ddeadb7b45678/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mango/.gradle/caches/8.9/transforms/48c49c78f67abd9c40850a98af9dd459/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mango/.gradle/caches/8.9/transforms/375cddd15e00ba554071d595e97baa3d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/mango/.gradle/caches/8.9/transforms/ef3d9ba79a5bbd9b07079d5abe1a48ef/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mango/.gradle/caches/8.9/transforms/67017991fdc9e1dcc8475cbc3e1c91e0/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/f889c3c29eaf05eea756df91f86e273c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/mango/.gradle/caches/8.9/transforms/d782bfffcc02ac3c0dc894ff7c9a5e6c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:2:1-53:12
+MERGED from [androidx.databinding:viewbinding:8.7.1] /home/mango/.gradle/caches/8.9/transforms/c35e508cfe1733a8940560b32ec1b6e8/transformed/viewbinding-8.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/01e0df7d4cf9b99fdf6afb980e307146/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7117477f7b1c062928e0b770d8975ee9/transformed/firebase-analytics-22.1.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/mango/.gradle/caches/8.9/transforms/e585f5536086411b71264adf283458c0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/e5b80ac0ce48eda074d05b04a8d3645b/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /home/mango/.gradle/caches/8.9/transforms/c538b9749a0fbe1b5b44a9a08dfad738/transformed/googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/mango/.gradle/caches/8.9/transforms/c8e78c63255ebc6dbe5c8d09913decab/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/mango/.gradle/caches/8.9/transforms/96e5eff4ebe2dd2e500ed01c06c04ef5/transformed/recaptcha-18.5.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/c85d01521127d4dc44bb777fadd607af/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/mango/.gradle/caches/8.9/transforms/c2a08490b5bc944b06ccf33bce01cb81/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/mango/.gradle/caches/8.9/transforms/4ac3e7f05c669157f90578dcf24ce451/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mango/.gradle/caches/8.9/transforms/3f2fc1d99911dde381b1203e894422bc/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9c9ac1db4c69297350e416031d737742/transformed/play-services-measurement-sdk-22.1.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /home/mango/.gradle/caches/8.9/transforms/4b8ed393446c091354de6a5b50f167dc/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /home/mango/.gradle/caches/8.9/transforms/54dd14ac2f938b9744f9dc5496c341f1/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:integrity:1.3.0] /home/mango/.gradle/caches/8.9/transforms/834981683b4f041e68e4eb5d49695074/transformed/integrity-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/mango/.gradle/caches/8.9/transforms/60ef6cf447627185e6875bd5148b34f0/transformed/play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/mango/.gradle/caches/8.9/transforms/0fdde574e0b4e485f7a8d5a7397bf7c1/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/mango/.gradle/caches/8.9/transforms/b0289f8f85c27b1362007ece967fab74/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/mango/.gradle/caches/8.9/transforms/1f6c331b3e74cc84162eaa824c550189/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/mango/.gradle/caches/8.9/transforms/e8b4e62d4ba68a614dd138a927a9b894/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/mango/.gradle/caches/8.9/transforms/ddc237b97d60b1e454efad084b7ca8e3/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/mango/.gradle/caches/8.9/transforms/6f28c385594608334e92760054e46e75/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /home/mango/.gradle/caches/8.9/transforms/0474d48522fb50d863d6c2155a896ffd/transformed/play-services-measurement-base-22.1.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/mango/.gradle/caches/8.9/transforms/b251d3a6f5e9c7081915e462f0b3495f/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/mango/.gradle/caches/8.9/transforms/e65351da41fb8facea0d3fbb2e4634e8/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/mango/.gradle/caches/8.9/transforms/e5bb738bb4c9374276c75c584d35a93c/transformed/play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/mango/.gradle/caches/8.9/transforms/3b3b86f02c88a70e1c50090397aa845f/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.2] /home/mango/.gradle/caches/8.9/transforms/816f4d1f97a0e1f12e460d57153fa2ce/transformed/activity-1.9.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/mango/.gradle/caches/8.9/transforms/403e801c47addf13ff5f7e214fa1d7dd/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/mango/.gradle/caches/8.9/transforms/af3a161ed0a697b66b2cfd5240d461ca/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/mango/.gradle/caches/8.9/transforms/be883b5b8379af7bd83d4504ec1f4e05/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/mango/.gradle/caches/8.9/transforms/db2902b54a28c45a02aab2f02772b1a7/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mango/.gradle/caches/8.9/transforms/0ea3be40c2f5a84865956d186e2ceb7d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mango/.gradle/caches/8.9/transforms/70706428439f7374949247780db8bdf7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /home/mango/.gradle/caches/8.9/transforms/91885a29ae47d200111be2395092c874/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/mango/.gradle/caches/8.9/transforms/812e1c9f9048f3efb2c1aa3f5eab8867/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mango/.gradle/caches/8.9/transforms/7c494911f2d845c03c6364fc04f963a5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mango/.gradle/caches/8.9/transforms/2415b5c59564995a19cb311b328811b4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mango/.gradle/caches/8.9/transforms/85747d5bc27a8eec2f8f2a0f81aef4c7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/mango/.gradle/caches/8.9/transforms/ad79690ab38aa2b8f5dd788d4f3ad0be/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/1331d4235d89461ff5ac3da8855b46cf/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/3588b025985dd3fc7900129f0f65af1a/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/3ad0d82320cb1972430551fca72f7379/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /home/mango/.gradle/caches/8.9/transforms/32d011f26ca51f0f55182b953865f3cf/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/mango/.gradle/caches/8.9/transforms/5448e0f235c8028f7abef398d5530ca4/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/mango/.gradle/caches/8.9/transforms/6cd5fb44a697ac1641440b99191ac8fe/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/a8057d9f8b692f1b7c9e16f8c90ba92a/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/mango/.gradle/caches/8.9/transforms/7a2286235cac4307d59e44275192bb6a/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/mango/.gradle/caches/8.9/transforms/b9245cdf385058936ccd146e3e9900df/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/mango/.gradle/caches/8.9/transforms/fedbb7557c781c84c55c6835d3d2ae25/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/mango/.gradle/caches/8.9/transforms/c856565936cebc6de6abf767d43062bd/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mango/.gradle/caches/8.9/transforms/504c5bf432e457a53a0bf87b02832b29/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mango/.gradle/caches/8.9/transforms/3bfd91c1eea871ad1cc1c52dbf855886/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/4153af029f6c7060025cf1a471a99bfd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/mango/.gradle/caches/8.9/transforms/29256083842f2bd88e1ef7a851217be2/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/mango/.gradle/caches/8.9/transforms/07fe48e0f6f55f854dea0ddfd00a7f86/transformed/firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mango/.gradle/caches/8.9/transforms/7f39843240e2f996b46d625b02e8a622/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mango/.gradle/caches/8.9/transforms/9e6231b0ec0c093f2cf37ce8bf1ec239/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/e3a911219101be6b9902cf326bd8fdcb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/mango/.gradle/caches/8.9/transforms/4f61cd87687cca0338a59671a659e922/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mango/.gradle/caches/8.9/transforms/9b07541f6c6028fc8e8c00ff436fe796/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/mango/.gradle/caches/8.9/transforms/b7df724cc1e93f63456cf268953e3395/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/mango/.gradle/caches/8.9/transforms/dd390d7ecfe025c122b90ceb884daa05/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:core-common:2.0.3] /home/mango/.gradle/caches/8.9/transforms/854fd93c81ce8b82cffbdd7f3936ecca/transformed/core-common-2.0.3/AndroidManifest.xml:2:1-21:12
 	package
 		INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -66,28 +103,78 @@ ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/Androi
 	android:name
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:6:9-50
 application
-ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:9:5-43:19
-INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:9:5-43:19
-MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/8e6f7106e9eb63f18442a217c14df724/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/8e6f7106e9eb63f18442a217c14df724/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/1613b014b2b9caddbc2e7e9ae4358e61/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/1613b014b2b9caddbc2e7e9ae4358e61/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e97e7b2445450c8ffba881dee75c6504/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e97e7b2445450c8ffba881dee75c6504/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/b971bbcdad83849a03645e9b397642f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/b971bbcdad83849a03645e9b397642f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mango/.gradle/caches/8.9/transforms/375cddd15e00ba554071d595e97baa3d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mango/.gradle/caches/8.9/transforms/375cddd15e00ba554071d595e97baa3d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:9:5-52:19
+INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:9:5-52:19
+MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/01e0df7d4cf9b99fdf6afb980e307146/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/01e0df7d4cf9b99fdf6afb980e307146/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7117477f7b1c062928e0b770d8975ee9/transformed/firebase-analytics-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7117477f7b1c062928e0b770d8975ee9/transformed/firebase-analytics-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/mango/.gradle/caches/8.9/transforms/e585f5536086411b71264adf283458c0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/mango/.gradle/caches/8.9/transforms/e585f5536086411b71264adf283458c0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/mango/.gradle/caches/8.9/transforms/c8e78c63255ebc6dbe5c8d09913decab/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/mango/.gradle/caches/8.9/transforms/c8e78c63255ebc6dbe5c8d09913decab/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/c85d01521127d4dc44bb777fadd607af/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/c85d01521127d4dc44bb777fadd607af/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9c9ac1db4c69297350e416031d737742/transformed/play-services-measurement-sdk-22.1.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9c9ac1db4c69297350e416031d737742/transformed/play-services-measurement-sdk-22.1.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /home/mango/.gradle/caches/8.9/transforms/4b8ed393446c091354de6a5b50f167dc/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /home/mango/.gradle/caches/8.9/transforms/4b8ed393446c091354de6a5b50f167dc/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.3.0] /home/mango/.gradle/caches/8.9/transforms/834981683b4f041e68e4eb5d49695074/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.3.0] /home/mango/.gradle/caches/8.9/transforms/834981683b4f041e68e4eb5d49695074/transformed/integrity-1.3.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/mango/.gradle/caches/8.9/transforms/60ef6cf447627185e6875bd5148b34f0/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/mango/.gradle/caches/8.9/transforms/60ef6cf447627185e6875bd5148b34f0/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/mango/.gradle/caches/8.9/transforms/1f6c331b3e74cc84162eaa824c550189/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/mango/.gradle/caches/8.9/transforms/1f6c331b3e74cc84162eaa824c550189/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/mango/.gradle/caches/8.9/transforms/ddc237b97d60b1e454efad084b7ca8e3/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/mango/.gradle/caches/8.9/transforms/ddc237b97d60b1e454efad084b7ca8e3/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/mango/.gradle/caches/8.9/transforms/6f28c385594608334e92760054e46e75/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/mango/.gradle/caches/8.9/transforms/6f28c385594608334e92760054e46e75/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /home/mango/.gradle/caches/8.9/transforms/0474d48522fb50d863d6c2155a896ffd/transformed/play-services-measurement-base-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /home/mango/.gradle/caches/8.9/transforms/0474d48522fb50d863d6c2155a896ffd/transformed/play-services-measurement-base-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/mango/.gradle/caches/8.9/transforms/b251d3a6f5e9c7081915e462f0b3495f/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/mango/.gradle/caches/8.9/transforms/b251d3a6f5e9c7081915e462f0b3495f/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/mango/.gradle/caches/8.9/transforms/e65351da41fb8facea0d3fbb2e4634e8/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/mango/.gradle/caches/8.9/transforms/e65351da41fb8facea0d3fbb2e4634e8/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/mango/.gradle/caches/8.9/transforms/e5bb738bb4c9374276c75c584d35a93c/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/mango/.gradle/caches/8.9/transforms/e5bb738bb4c9374276c75c584d35a93c/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/mango/.gradle/caches/8.9/transforms/af3a161ed0a697b66b2cfd5240d461ca/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/mango/.gradle/caches/8.9/transforms/af3a161ed0a697b66b2cfd5240d461ca/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/a8057d9f8b692f1b7c9e16f8c90ba92a/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/a8057d9f8b692f1b7c9e16f8c90ba92a/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/4153af029f6c7060025cf1a471a99bfd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/4153af029f6c7060025cf1a471a99bfd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mango/.gradle/caches/8.9/transforms/9e6231b0ec0c093f2cf37ce8bf1ec239/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mango/.gradle/caches/8.9/transforms/9e6231b0ec0c093f2cf37ce8bf1ec239/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core-common:2.0.3] /home/mango/.gradle/caches/8.9/transforms/854fd93c81ce8b82cffbdd7f3936ecca/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.3] /home/mango/.gradle/caches/8.9/transforms/854fd93c81ce8b82cffbdd7f3936ecca/transformed/core-common-2.0.3/AndroidManifest.xml:11:5-19:19
 	android:extractNativeLibs
 		INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
@@ -164,183 +251,601 @@ ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/Androi
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:42:13-36
 	android:name
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:41:19-47
+activity#com.example.bosqueapp.CrearDispositivoActivity
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:43:9-44:38
+	android:exported
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:43:19-59
+activity#com.example.bosqueapp.VerDispositivosActivity
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:45:9-46:38
+	android:exported
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:45:19-58
+activity#com.example.bosqueapp.EditarDispositivoActivity
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:47:9-48:38
+	android:exported
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:47:19-60
+activity#com.example.bosqueapp.RegisterActivity
+ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:49:9-50:38
+	android:exported
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:49:19-51
 uses-sdk
 INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml
 INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/8e6f7106e9eb63f18442a217c14df724/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/8e6f7106e9eb63f18442a217c14df724/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/1613b014b2b9caddbc2e7e9ae4358e61/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/1613b014b2b9caddbc2e7e9ae4358e61/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/mango/.gradle/caches/8.9/transforms/1fb93f5502dceb4f49a30e5733d51ef6/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/mango/.gradle/caches/8.9/transforms/1fb93f5502dceb4f49a30e5733d51ef6/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.7.0] /home/mango/.gradle/caches/8.9/transforms/f3ba4377d00610daa2fd752ef99f0fda/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.7.0] /home/mango/.gradle/caches/8.9/transforms/f3ba4377d00610daa2fd752ef99f0fda/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mango/.gradle/caches/8.9/transforms/4098cab129aa6423f7042394abe4106b/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mango/.gradle/caches/8.9/transforms/4098cab129aa6423f7042394abe4106b/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.5.4] /home/mango/.gradle/caches/8.9/transforms/ead74333d41f6535736603941c06954d/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.5.4] /home/mango/.gradle/caches/8.9/transforms/ead74333d41f6535736603941c06954d/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.9.2] /home/mango/.gradle/caches/8.9/transforms/f9023202f96507420d372eb658d4714c/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.9.2] /home/mango/.gradle/caches/8.9/transforms/f9023202f96507420d372eb658d4714c/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.13.1] /home/mango/.gradle/caches/8.9/transforms/74183ad5df4065751ce00dfc18f1f39d/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.13.1] /home/mango/.gradle/caches/8.9/transforms/74183ad5df4065751ce00dfc18f1f39d/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/mango/.gradle/caches/8.9/transforms/b9a637176e433479e3c088660dce8b54/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/mango/.gradle/caches/8.9/transforms/b9a637176e433479e3c088660dce8b54/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mango/.gradle/caches/8.9/transforms/bc99e1ee7af7be24ca38ef2aa754c3b1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mango/.gradle/caches/8.9/transforms/bc99e1ee7af7be24ca38ef2aa754c3b1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mango/.gradle/caches/8.9/transforms/00953f9b35996bb348d8f6b7dbc55063/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mango/.gradle/caches/8.9/transforms/00953f9b35996bb348d8f6b7dbc55063/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.5.0] /home/mango/.gradle/caches/8.9/transforms/c96c7dcb4cc98cee6a5f14fc769c0a36/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.transition:transition:1.5.0] /home/mango/.gradle/caches/8.9/transforms/c96c7dcb4cc98cee6a5f14fc769c0a36/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/mango/.gradle/caches/8.9/transforms/b4beb1f2de18610f2bd6dd5e42aad366/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/mango/.gradle/caches/8.9/transforms/b4beb1f2de18610f2bd6dd5e42aad366/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mango/.gradle/caches/8.9/transforms/d10576c899b56a76253a9356903c7458/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mango/.gradle/caches/8.9/transforms/d10576c899b56a76253a9356903c7458/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mango/.gradle/caches/8.9/transforms/85ee42a50e04b6bdada12b9ad3feeb7e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mango/.gradle/caches/8.9/transforms/85ee42a50e04b6bdada12b9ad3feeb7e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mango/.gradle/caches/8.9/transforms/feaba2026f0e2d3acb56c23ff3f41411/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mango/.gradle/caches/8.9/transforms/feaba2026f0e2d3acb56c23ff3f41411/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/mango/.gradle/caches/8.9/transforms/ee1bd65d67b661cafca1ef9ec5c801ab/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/mango/.gradle/caches/8.9/transforms/ee1bd65d67b661cafca1ef9ec5c801ab/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/4a309cd1f1105e0529f885527ade0567/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/4a309cd1f1105e0529f885527ade0567/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/0c06fb6112b3259c69d821a39f1cd71c/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/0c06fb6112b3259c69d821a39f1cd71c/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/907d52b06719d1795dc492f2e9f7ce64/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/907d52b06719d1795dc492f2e9f7ce64/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/mango/.gradle/caches/8.9/transforms/f441d5119a685a2d1ec1f2cdd99d6e0a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/mango/.gradle/caches/8.9/transforms/f441d5119a685a2d1ec1f2cdd99d6e0a/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e477cc7bf0460a66d145479d0166544e/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e477cc7bf0460a66d145479d0166544e/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e97e7b2445450c8ffba881dee75c6504/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e97e7b2445450c8ffba881dee75c6504/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/mango/.gradle/caches/8.9/transforms/14218f6f369ec87a086ffc35c7949ec2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/mango/.gradle/caches/8.9/transforms/14218f6f369ec87a086ffc35c7949ec2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/mango/.gradle/caches/8.9/transforms/c636e42f1fb880652f2570079b7b45bb/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/mango/.gradle/caches/8.9/transforms/c636e42f1fb880652f2570079b7b45bb/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/mango/.gradle/caches/8.9/transforms/bf77edbe227b05c83474c8c11065a7f0/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/mango/.gradle/caches/8.9/transforms/bf77edbe227b05c83474c8c11065a7f0/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /home/mango/.gradle/caches/8.9/transforms/374eb4f86feb2b408d87453590bf16b0/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /home/mango/.gradle/caches/8.9/transforms/374eb4f86feb2b408d87453590bf16b0/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/mango/.gradle/caches/8.9/transforms/accda56bd5f1ff2fb11444cae6e895c3/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/mango/.gradle/caches/8.9/transforms/accda56bd5f1ff2fb11444cae6e895c3/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mango/.gradle/caches/8.9/transforms/af76e953af4faf6803f59ba0d892d216/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mango/.gradle/caches/8.9/transforms/af76e953af4faf6803f59ba0d892d216/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/mango/.gradle/caches/8.9/transforms/5b53fb897b275a286a939a324280bc5f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/mango/.gradle/caches/8.9/transforms/5b53fb897b275a286a939a324280bc5f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/b971bbcdad83849a03645e9b397642f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/b971bbcdad83849a03645e9b397642f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/mango/.gradle/caches/8.9/transforms/1648e1a012531ef6122ddeadb7b45678/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/mango/.gradle/caches/8.9/transforms/1648e1a012531ef6122ddeadb7b45678/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mango/.gradle/caches/8.9/transforms/48c49c78f67abd9c40850a98af9dd459/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mango/.gradle/caches/8.9/transforms/48c49c78f67abd9c40850a98af9dd459/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mango/.gradle/caches/8.9/transforms/375cddd15e00ba554071d595e97baa3d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mango/.gradle/caches/8.9/transforms/375cddd15e00ba554071d595e97baa3d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/mango/.gradle/caches/8.9/transforms/ef3d9ba79a5bbd9b07079d5abe1a48ef/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/mango/.gradle/caches/8.9/transforms/ef3d9ba79a5bbd9b07079d5abe1a48ef/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mango/.gradle/caches/8.9/transforms/67017991fdc9e1dcc8475cbc3e1c91e0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mango/.gradle/caches/8.9/transforms/67017991fdc9e1dcc8475cbc3e1c91e0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/f889c3c29eaf05eea756df91f86e273c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/f889c3c29eaf05eea756df91f86e273c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/mango/.gradle/caches/8.9/transforms/d782bfffcc02ac3c0dc894ff7c9a5e6c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/mango/.gradle/caches/8.9/transforms/d782bfffcc02ac3c0dc894ff7c9a5e6c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:8.7.1] /home/mango/.gradle/caches/8.9/transforms/c35e508cfe1733a8940560b32ec1b6e8/transformed/viewbinding-8.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.7.1] /home/mango/.gradle/caches/8.9/transforms/c35e508cfe1733a8940560b32ec1b6e8/transformed/viewbinding-8.7.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/01e0df7d4cf9b99fdf6afb980e307146/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/mango/.gradle/caches/8.9/transforms/01e0df7d4cf9b99fdf6afb980e307146/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7117477f7b1c062928e0b770d8975ee9/transformed/firebase-analytics-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7117477f7b1c062928e0b770d8975ee9/transformed/firebase-analytics-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/mango/.gradle/caches/8.9/transforms/e585f5536086411b71264adf283458c0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/mango/.gradle/caches/8.9/transforms/e585f5536086411b71264adf283458c0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/e5b80ac0ce48eda074d05b04a8d3645b/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/e5b80ac0ce48eda074d05b04a8d3645b/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /home/mango/.gradle/caches/8.9/transforms/c538b9749a0fbe1b5b44a9a08dfad738/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /home/mango/.gradle/caches/8.9/transforms/c538b9749a0fbe1b5b44a9a08dfad738/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/mango/.gradle/caches/8.9/transforms/c8e78c63255ebc6dbe5c8d09913decab/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/mango/.gradle/caches/8.9/transforms/c8e78c63255ebc6dbe5c8d09913decab/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/mango/.gradle/caches/8.9/transforms/96e5eff4ebe2dd2e500ed01c06c04ef5/transformed/recaptcha-18.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/mango/.gradle/caches/8.9/transforms/96e5eff4ebe2dd2e500ed01c06c04ef5/transformed/recaptcha-18.5.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/c85d01521127d4dc44bb777fadd607af/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/mango/.gradle/caches/8.9/transforms/c85d01521127d4dc44bb777fadd607af/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/mango/.gradle/caches/8.9/transforms/c2a08490b5bc944b06ccf33bce01cb81/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/mango/.gradle/caches/8.9/transforms/c2a08490b5bc944b06ccf33bce01cb81/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/mango/.gradle/caches/8.9/transforms/4ac3e7f05c669157f90578dcf24ce451/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/mango/.gradle/caches/8.9/transforms/4ac3e7f05c669157f90578dcf24ce451/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mango/.gradle/caches/8.9/transforms/3f2fc1d99911dde381b1203e894422bc/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/mango/.gradle/caches/8.9/transforms/3f2fc1d99911dde381b1203e894422bc/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9c9ac1db4c69297350e416031d737742/transformed/play-services-measurement-sdk-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9c9ac1db4c69297350e416031d737742/transformed/play-services-measurement-sdk-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /home/mango/.gradle/caches/8.9/transforms/4b8ed393446c091354de6a5b50f167dc/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /home/mango/.gradle/caches/8.9/transforms/4b8ed393446c091354de6a5b50f167dc/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /home/mango/.gradle/caches/8.9/transforms/54dd14ac2f938b9744f9dc5496c341f1/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /home/mango/.gradle/caches/8.9/transforms/54dd14ac2f938b9744f9dc5496c341f1/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /home/mango/.gradle/caches/8.9/transforms/834981683b4f041e68e4eb5d49695074/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.3.0] /home/mango/.gradle/caches/8.9/transforms/834981683b4f041e68e4eb5d49695074/transformed/integrity-1.3.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/mango/.gradle/caches/8.9/transforms/60ef6cf447627185e6875bd5148b34f0/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/mango/.gradle/caches/8.9/transforms/60ef6cf447627185e6875bd5148b34f0/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/mango/.gradle/caches/8.9/transforms/0fdde574e0b4e485f7a8d5a7397bf7c1/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/mango/.gradle/caches/8.9/transforms/0fdde574e0b4e485f7a8d5a7397bf7c1/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/mango/.gradle/caches/8.9/transforms/b0289f8f85c27b1362007ece967fab74/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/mango/.gradle/caches/8.9/transforms/b0289f8f85c27b1362007ece967fab74/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/mango/.gradle/caches/8.9/transforms/1f6c331b3e74cc84162eaa824c550189/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/mango/.gradle/caches/8.9/transforms/1f6c331b3e74cc84162eaa824c550189/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/mango/.gradle/caches/8.9/transforms/e8b4e62d4ba68a614dd138a927a9b894/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/mango/.gradle/caches/8.9/transforms/e8b4e62d4ba68a614dd138a927a9b894/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/mango/.gradle/caches/8.9/transforms/ddc237b97d60b1e454efad084b7ca8e3/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/mango/.gradle/caches/8.9/transforms/ddc237b97d60b1e454efad084b7ca8e3/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/mango/.gradle/caches/8.9/transforms/6f28c385594608334e92760054e46e75/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/mango/.gradle/caches/8.9/transforms/6f28c385594608334e92760054e46e75/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /home/mango/.gradle/caches/8.9/transforms/0474d48522fb50d863d6c2155a896ffd/transformed/play-services-measurement-base-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /home/mango/.gradle/caches/8.9/transforms/0474d48522fb50d863d6c2155a896ffd/transformed/play-services-measurement-base-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/mango/.gradle/caches/8.9/transforms/b251d3a6f5e9c7081915e462f0b3495f/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/mango/.gradle/caches/8.9/transforms/b251d3a6f5e9c7081915e462f0b3495f/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/mango/.gradle/caches/8.9/transforms/e65351da41fb8facea0d3fbb2e4634e8/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/mango/.gradle/caches/8.9/transforms/e65351da41fb8facea0d3fbb2e4634e8/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/mango/.gradle/caches/8.9/transforms/e5bb738bb4c9374276c75c584d35a93c/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/mango/.gradle/caches/8.9/transforms/e5bb738bb4c9374276c75c584d35a93c/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /home/mango/.gradle/caches/8.9/transforms/3b3b86f02c88a70e1c50090397aa845f/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/mango/.gradle/caches/8.9/transforms/3b3b86f02c88a70e1c50090397aa845f/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.2] /home/mango/.gradle/caches/8.9/transforms/816f4d1f97a0e1f12e460d57153fa2ce/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] /home/mango/.gradle/caches/8.9/transforms/816f4d1f97a0e1f12e460d57153fa2ce/transformed/activity-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/mango/.gradle/caches/8.9/transforms/403e801c47addf13ff5f7e214fa1d7dd/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/mango/.gradle/caches/8.9/transforms/403e801c47addf13ff5f7e214fa1d7dd/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/mango/.gradle/caches/8.9/transforms/af3a161ed0a697b66b2cfd5240d461ca/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/mango/.gradle/caches/8.9/transforms/af3a161ed0a697b66b2cfd5240d461ca/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/mango/.gradle/caches/8.9/transforms/be883b5b8379af7bd83d4504ec1f4e05/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/mango/.gradle/caches/8.9/transforms/be883b5b8379af7bd83d4504ec1f4e05/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/mango/.gradle/caches/8.9/transforms/db2902b54a28c45a02aab2f02772b1a7/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/mango/.gradle/caches/8.9/transforms/db2902b54a28c45a02aab2f02772b1a7/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mango/.gradle/caches/8.9/transforms/0ea3be40c2f5a84865956d186e2ceb7d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mango/.gradle/caches/8.9/transforms/0ea3be40c2f5a84865956d186e2ceb7d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mango/.gradle/caches/8.9/transforms/70706428439f7374949247780db8bdf7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/mango/.gradle/caches/8.9/transforms/70706428439f7374949247780db8bdf7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /home/mango/.gradle/caches/8.9/transforms/91885a29ae47d200111be2395092c874/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/mango/.gradle/caches/8.9/transforms/91885a29ae47d200111be2395092c874/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/mango/.gradle/caches/8.9/transforms/812e1c9f9048f3efb2c1aa3f5eab8867/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/mango/.gradle/caches/8.9/transforms/812e1c9f9048f3efb2c1aa3f5eab8867/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mango/.gradle/caches/8.9/transforms/7c494911f2d845c03c6364fc04f963a5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mango/.gradle/caches/8.9/transforms/7c494911f2d845c03c6364fc04f963a5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mango/.gradle/caches/8.9/transforms/2415b5c59564995a19cb311b328811b4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mango/.gradle/caches/8.9/transforms/2415b5c59564995a19cb311b328811b4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mango/.gradle/caches/8.9/transforms/85747d5bc27a8eec2f8f2a0f81aef4c7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mango/.gradle/caches/8.9/transforms/85747d5bc27a8eec2f8f2a0f81aef4c7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mango/.gradle/caches/8.9/transforms/ad79690ab38aa2b8f5dd788d4f3ad0be/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mango/.gradle/caches/8.9/transforms/ad79690ab38aa2b8f5dd788d4f3ad0be/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/1331d4235d89461ff5ac3da8855b46cf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/1331d4235d89461ff5ac3da8855b46cf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/3588b025985dd3fc7900129f0f65af1a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/3588b025985dd3fc7900129f0f65af1a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/3ad0d82320cb1972430551fca72f7379/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/mango/.gradle/caches/8.9/transforms/3ad0d82320cb1972430551fca72f7379/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/mango/.gradle/caches/8.9/transforms/32d011f26ca51f0f55182b953865f3cf/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/mango/.gradle/caches/8.9/transforms/32d011f26ca51f0f55182b953865f3cf/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/mango/.gradle/caches/8.9/transforms/5448e0f235c8028f7abef398d5530ca4/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/mango/.gradle/caches/8.9/transforms/5448e0f235c8028f7abef398d5530ca4/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/mango/.gradle/caches/8.9/transforms/6cd5fb44a697ac1641440b99191ac8fe/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/mango/.gradle/caches/8.9/transforms/6cd5fb44a697ac1641440b99191ac8fe/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/a8057d9f8b692f1b7c9e16f8c90ba92a/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/a8057d9f8b692f1b7c9e16f8c90ba92a/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/mango/.gradle/caches/8.9/transforms/7a2286235cac4307d59e44275192bb6a/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/mango/.gradle/caches/8.9/transforms/7a2286235cac4307d59e44275192bb6a/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/mango/.gradle/caches/8.9/transforms/b9245cdf385058936ccd146e3e9900df/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/mango/.gradle/caches/8.9/transforms/b9245cdf385058936ccd146e3e9900df/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/mango/.gradle/caches/8.9/transforms/fedbb7557c781c84c55c6835d3d2ae25/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/mango/.gradle/caches/8.9/transforms/fedbb7557c781c84c55c6835d3d2ae25/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/mango/.gradle/caches/8.9/transforms/c856565936cebc6de6abf767d43062bd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/mango/.gradle/caches/8.9/transforms/c856565936cebc6de6abf767d43062bd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mango/.gradle/caches/8.9/transforms/504c5bf432e457a53a0bf87b02832b29/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mango/.gradle/caches/8.9/transforms/504c5bf432e457a53a0bf87b02832b29/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mango/.gradle/caches/8.9/transforms/3bfd91c1eea871ad1cc1c52dbf855886/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mango/.gradle/caches/8.9/transforms/3bfd91c1eea871ad1cc1c52dbf855886/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/4153af029f6c7060025cf1a471a99bfd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/4153af029f6c7060025cf1a471a99bfd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/mango/.gradle/caches/8.9/transforms/29256083842f2bd88e1ef7a851217be2/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/mango/.gradle/caches/8.9/transforms/29256083842f2bd88e1ef7a851217be2/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/mango/.gradle/caches/8.9/transforms/07fe48e0f6f55f854dea0ddfd00a7f86/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/mango/.gradle/caches/8.9/transforms/07fe48e0f6f55f854dea0ddfd00a7f86/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mango/.gradle/caches/8.9/transforms/7f39843240e2f996b46d625b02e8a622/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mango/.gradle/caches/8.9/transforms/7f39843240e2f996b46d625b02e8a622/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mango/.gradle/caches/8.9/transforms/9e6231b0ec0c093f2cf37ce8bf1ec239/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mango/.gradle/caches/8.9/transforms/9e6231b0ec0c093f2cf37ce8bf1ec239/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/e3a911219101be6b9902cf326bd8fdcb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mango/.gradle/caches/8.9/transforms/e3a911219101be6b9902cf326bd8fdcb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/mango/.gradle/caches/8.9/transforms/4f61cd87687cca0338a59671a659e922/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/mango/.gradle/caches/8.9/transforms/4f61cd87687cca0338a59671a659e922/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mango/.gradle/caches/8.9/transforms/9b07541f6c6028fc8e8c00ff436fe796/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mango/.gradle/caches/8.9/transforms/9b07541f6c6028fc8e8c00ff436fe796/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mango/.gradle/caches/8.9/transforms/b7df724cc1e93f63456cf268953e3395/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mango/.gradle/caches/8.9/transforms/b7df724cc1e93f63456cf268953e3395/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/mango/.gradle/caches/8.9/transforms/dd390d7ecfe025c122b90ceb884daa05/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/mango/.gradle/caches/8.9/transforms/dd390d7ecfe025c122b90ceb884daa05/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core-common:2.0.3] /home/mango/.gradle/caches/8.9/transforms/854fd93c81ce8b82cffbdd7f3936ecca/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.3] /home/mango/.gradle/caches/8.9/transforms/854fd93c81ce8b82cffbdd7f3936ecca/transformed/core-common-2.0.3/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:23:9-148
 	android:targetSdkVersion
 		INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml
-provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e97e7b2445450c8ffba881dee75c6504/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e97e7b2445450c8ffba881dee75c6504/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/b971bbcdad83849a03645e9b397642f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/b971bbcdad83849a03645e9b397642f7/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
-	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/mango/.gradle/caches/8.9/transforms/96e5eff4ebe2dd2e500ed01c06c04ef5/transformed/recaptcha-18.5.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/mango/.gradle/caches/8.9/transforms/96e5eff4ebe2dd2e500ed01c06c04ef5/transformed/recaptcha-18.5.1/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/mango/.gradle/caches/8.9/transforms/96e5eff4ebe2dd2e500ed01c06c04ef5/transformed/recaptcha-18.5.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/mango/.gradle/caches/8.9/transforms/96e5eff4ebe2dd2e500ed01c06c04ef5/transformed/recaptcha-18.5.1/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:23:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/mango/.gradle/caches/8.9/transforms/e585f5536086411b71264adf283458c0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/mango/.gradle/caches/8.9/transforms/e585f5536086411b71264adf283458c0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
-	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
-meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/ddbb252129372b7020922c3e11208092/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
-permission#com.example.bosqueapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
-uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
-uses-permission#com.example.bosqueapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/8f438f6f278963856548dbbb5e4d48ce/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
-meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e97e7b2445450c8ffba881dee75c6504/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e97e7b2445450c8ffba881dee75c6504/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/e97e7b2445450c8ffba881dee75c6504/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
-meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
-receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
-	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
-	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
-	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:28:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:34:13-32
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:27:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/mango/.gradle/caches/8.9/transforms/d37a4a512f2cb9d668d092ccf4f75694/transformed/firebase-database-21.0.0/AndroidManifest.xml:33:17-109
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.1.0] /home/mango/.gradle/caches/8.9/transforms/4633787e00fa068a4a0b20466780b337/transformed/firebase-auth-23.1.0/AndroidManifest.xml:70:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/mango/.gradle/caches/8.9/transforms/6f28c385594608334e92760054e46e75/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/mango/.gradle/caches/8.9/transforms/6f28c385594608334e92760054e46e75/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/ed559037d7768abad134b50b382275b8/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:27:22-79
+property#android.adservices.AD_SERVICES_CONFIG
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/mango/.gradle/caches/8.9/transforms/9a400b91e7f402b683634e934694086f/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/mango/.gradle/caches/8.9/transforms/d280466b44e9d300b1988df12f5340a0/transformed/firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/mango/.gradle/caches/8.9/transforms/e585f5536086411b71264adf283458c0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/mango/.gradle/caches/8.9/transforms/e585f5536086411b71264adf283458c0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/mango/.gradle/caches/8.9/transforms/e585f5536086411b71264adf283458c0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/mango/.gradle/caches/8.9/transforms/144c0563217e407f32e7698c385d5112/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/mango/.gradle/caches/8.9/transforms/fab1ffba5aabfbe2c385788f97637fab/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/mango/.gradle/caches/8.9/transforms/96e5eff4ebe2dd2e500ed01c06c04ef5/transformed/recaptcha-18.5.1/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.5.1] /home/mango/.gradle/caches/8.9/transforms/96e5eff4ebe2dd2e500ed01c06c04ef5/transformed/recaptcha-18.5.1/AndroidManifest.xml:9:22-95
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/mango/.gradle/caches/8.9/transforms/7e45c59f6437cb40a33f4297bb5c212b/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/mango/.gradle/caches/8.9/transforms/f9040be3cc248d66029dc6a319124d2e/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:40:13-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/mango/.gradle/caches/8.9/transforms/a0dfa57f9550bb4c6b8485fc4ecc6d77/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/mango/.gradle/caches/8.9/transforms/1f6c331b3e74cc84162eaa824c550189/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/mango/.gradle/caches/8.9/transforms/1f6c331b3e74cc84162eaa824c550189/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/mango/.gradle/caches/8.9/transforms/1f6c331b3e74cc84162eaa824c550189/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/mango/.gradle/caches/8.9/transforms/1f6c331b3e74cc84162eaa824c550189/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /home/mango/.gradle/caches/8.9/transforms/e5bb738bb4c9374276c75c584d35a93c/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /home/mango/.gradle/caches/8.9/transforms/e5bb738bb4c9374276c75c584d35a93c/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /home/mango/.gradle/caches/8.9/transforms/e5bb738bb4c9374276c75c584d35a93c/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/mango/.gradle/caches/8.9/transforms/af3a161ed0a697b66b2cfd5240d461ca/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/mango/.gradle/caches/8.9/transforms/af3a161ed0a697b66b2cfd5240d461ca/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/mango/.gradle/caches/8.9/transforms/af3a161ed0a697b66b2cfd5240d461ca/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/a8057d9f8b692f1b7c9e16f8c90ba92a/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/a8057d9f8b692f1b7c9e16f8c90ba92a/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/4153af029f6c7060025cf1a471a99bfd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mango/.gradle/caches/8.9/transforms/4153af029f6c7060025cf1a471a99bfd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/mango/.gradle/caches/8.9/transforms/1105c52ee867998228493ca05c71d815/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.bosqueapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.bosqueapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/mango/.gradle/caches/8.9/transforms/b01152a2d5444fac60d515dd06cd39c6/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/a8057d9f8b692f1b7c9e16f8c90ba92a/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/a8057d9f8b692f1b7c9e16f8c90ba92a/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/mango/.gradle/caches/8.9/transforms/a8057d9f8b692f1b7c9e16f8c90ba92a/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/44a210134ae23e60cd8eb214d307a4ae/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/mango/.gradle/caches/8.9/transforms/bb5913df58d8ee8a90c4cd552d113f6f/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.3] /home/mango/.gradle/caches/8.9/transforms/854fd93c81ce8b82cffbdd7f3936ecca/transformed/core-common-2.0.3/AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.3] /home/mango/.gradle/caches/8.9/transforms/854fd93c81ce8b82cffbdd7f3936ecca/transformed/core-common-2.0.3/AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.3] /home/mango/.gradle/caches/8.9/transforms/854fd93c81ce8b82cffbdd7f3936ecca/transformed/core-common-2.0.3/AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.3] /home/mango/.gradle/caches/8.9/transforms/854fd93c81ce8b82cffbdd7f3936ecca/transformed/core-common-2.0.3/AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.3] /home/mango/.gradle/caches/8.9/transforms/854fd93c81ce8b82cffbdd7f3936ecca/transformed/core-common-2.0.3/AndroidManifest.xml:15:13-93

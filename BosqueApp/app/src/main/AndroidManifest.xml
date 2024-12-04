@@ -23,7 +23,7 @@
             android:exported="true"/>
         <activity
             android:name=".LoginActivity"
-            android:exported="true" >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -40,5 +40,14 @@
             android:exported="true"/>
         <activity android:name=".ZoneActivity"
             android:exported="true"/>
+        <activity android:name=".CrearDispositivoActivity"
+            android:exported="true"/>
+        <activity android:name=".VerDispositivosActivity"
+            android:exported="true"/>
+        <activity android:name=".EditarDispositivoActivity"
+            android:exported="true"/>
+        <activity android:name=".RegisterActivity"
+            android:exported="true"/>
+
     </application>
 </manifest>
