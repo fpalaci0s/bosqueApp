@@ -67,13 +67,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
+        android:clickable="true"
+        android:focusable="true"
         android:gravity="center"
+        android:minHeight="48dp"
         android:text="@string/no_tienes_cuenta_registrate_aqu"
         android:textColor="@color/black"
         android:textSize="14sp"
         android:textStyle="bold"
-        android:clickable="true"
-        android:focusable="true"
         tools:text="¿No tienes cuenta? Regístrate aquí" />
 
 </LinearLayout>
