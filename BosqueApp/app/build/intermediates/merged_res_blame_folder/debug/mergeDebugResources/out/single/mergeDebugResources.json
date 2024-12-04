@@ -20,12 +20,12 @@
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/drawable_user.png.flat",
-        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/drawable/user.png"
-    },
-    {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/drawable_carabineros_de_chile.xml.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/drawable/carabineros_de_chile.xml"
+    },
+    {
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/drawable_user.png.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/drawable/user.png"
     },
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -48,20 +48,12 @@
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/editar_perfil.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-43:/layout_activity_register.xml.flat",
-        "source": "com.example.bosqueapp-main-45:/layout/activity_register.xml"
-    },
-    {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/layout_notificacion.xml.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/notificacion.xml"
     },
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/xml_backup_rules.xml.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/xml/backup_rules.xml"
-    },
-    {
-        "merged": "com.example.bosqueapp-debug-43:/layout_editar_dispositivo.xml.flat",
-        "source": "com.example.bosqueapp-main-45:/layout/editar_dispositivo.xml"
     },
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
@@ -98,6 +90,10 @@
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/layout_activity_main_menu.xml.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "com.example.bosqueapp-debug-43:/layout_inicio_sesion.xml.flat",
+        "source": "com.example.bosqueapp-main-45:/layout/inicio_sesion.xml"
     },
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -148,10 +144,6 @@
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.bosqueapp-debug-43:/layout_ver_dispositivos.xml.flat",
-        "source": "com.example.bosqueapp-main-45:/layout/ver_dispositivos.xml"
-    },
-    {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/layout_perfil.xml.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/perfil.xml"
     },
@@ -166,10 +158,6 @@
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/layout_editar_dispositivo.xml.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/editar_dispositivo.xml"
-    },
-    {
-        "merged": "com.example.bosqueapp-debug-43:/layout_item_dispositivos.xml.flat",
-        "source": "com.example.bosqueapp-main-45:/layout/item_dispositivos.xml"
     },
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/drawable_phone_call.png.flat",
@@ -190,10 +178,6 @@
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.bosqueapp-debug-43:/layout_crear_dispositivo.xml.flat",
-        "source": "com.example.bosqueapp-main-45:/layout/crear_dispositivo.xml"
     },
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/drawable_ic_launcher_background.xml.flat",

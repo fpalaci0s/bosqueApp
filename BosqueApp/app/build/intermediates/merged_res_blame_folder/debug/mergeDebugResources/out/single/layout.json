@@ -4,14 +4,6 @@
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/vinculacion.xml"
     },
     {
-        "merged": "com.example.bosqueapp-mergeDebugResources-42:/layout/activity_register.xml",
-        "source": "com.example.bosqueapp-main-45:/layout/activity_register.xml"
-    },
-    {
-        "merged": "com.example.bosqueapp-mergeDebugResources-42:/layout/ver_dispositivos.xml",
-        "source": "com.example.bosqueapp-main-45:/layout/ver_dispositivos.xml"
-    },
-    {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-mergeDebugResources-42:/layout/perfil.xml",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/perfil.xml"
     },
@@ -28,20 +20,16 @@
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/item_dispositivos.xml"
     },
     {
-        "merged": "com.example.bosqueapp-mergeDebugResources-42:/layout/item_dispositivos.xml",
-        "source": "com.example.bosqueapp-main-45:/layout/item_dispositivos.xml"
-    },
-    {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-mergeDebugResources-42:/layout/zonas.xml",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/zonas.xml"
     },
     {
-        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-mergeDebugResources-42:/layout/activity_main_menu.xml",
-        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/activity_main_menu.xml"
-    },
-    {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-mergeDebugResources-42:/layout/ver_dispositivos.xml",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/ver_dispositivos.xml"
+    },
+    {
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-mergeDebugResources-42:/layout/activity_main_menu.xml",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/activity_main_menu.xml"
     },
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-mergeDebugResources-42:/layout/crear_dispositivo.xml",
@@ -64,11 +52,7 @@
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/editar_perfil.xml"
     },
     {
-        "merged": "com.example.bosqueapp-mergeDebugResources-42:/layout/editar_dispositivo.xml",
-        "source": "com.example.bosqueapp-main-45:/layout/editar_dispositivo.xml"
-    },
-    {
-        "merged": "com.example.bosqueapp-mergeDebugResources-42:/layout/crear_dispositivo.xml",
-        "source": "com.example.bosqueapp-main-45:/layout/crear_dispositivo.xml"
+        "merged": "com.example.bosqueapp-mergeDebugResources-42:/layout/inicio_sesion.xml",
+        "source": "com.example.bosqueapp-main-45:/layout/inicio_sesion.xml"
     }
 ]
