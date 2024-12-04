@@ -8,12 +8,12 @@
     android:padding="16dp"
     android:background="@drawable/fondo">
 
-    <!-- Campo para nombre del dispositivo -->
+    <!-- nombre -->
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
-        android:hint="Nombre del dispositivo"
+        android:hint="@string/nombre_del_dispositivo1"
         app:boxStrokeColor="@color/black"
         app:boxStrokeWidthFocused="2dp">
 
@@ -24,12 +24,12 @@
             android:inputType="text" />
     </com.google.android.material.textfield.TextInputLayout>
 
-    <!-- Campo para tipo de dispositivo -->
+    <!-- tipo de dispositivo -->
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
-        android:hint="Tipo de dispositivo"
+        android:hint="@string/tipo_de_dispositivo"
         app:boxStrokeColor="@color/black"
         app:boxStrokeWidthFocused="2dp">
 
@@ -40,12 +40,12 @@
             android:inputType="text" />
     </com.google.android.material.textfield.TextInputLayout>
 
-    <!-- Campo para descripción del dispositivo -->
+    <!--  descripción -->
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="24dp"
-        android:hint="Descripción del dispositivo"
+        android:hint="@string/descripci_n_del_dispositivo"
         app:boxStrokeColor="@color/black"
         app:boxStrokeWidthFocused="2dp">
 
@@ -56,12 +56,22 @@
             android:inputType="text" />
     </com.google.android.material.textfield.TextInputLayout>
 
-    <!-- Botón de guardar -->
+    <!-- Guardar-->
     <com.google.android.material.button.MaterialButton
         android:id="@+id/saveDeviceButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Guardar"
+        android:text="@string/guardar"
+        app:cornerRadius="8dp"
+        android:backgroundTint="@color/black"
+        android:textColor="@android:color/white" />
+
+    <!-- Botón de volver -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/backButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/volver1"
         app:cornerRadius="8dp"
         android:backgroundTint="@color/black"
         android:textColor="@android:color/white" />

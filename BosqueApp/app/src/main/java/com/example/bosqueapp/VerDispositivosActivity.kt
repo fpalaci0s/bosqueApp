@@ -21,7 +21,7 @@ class VerDispositivosActivity : AppCompatActivity() {
         binding = VerDispositivosBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        // Configurar RecyclerView
+        // recyclerview
         binding.devicesRecyclerView.layoutManager = LinearLayoutManager(this)
         adapter = AdapterDispositivo(
             dispositivosList,
@@ -40,10 +40,15 @@ class VerDispositivosActivity : AppCompatActivity() {
         )
         binding.devicesRecyclerView.adapter = adapter
 
-        // Cargar datos de Firebase
+        // Firebase
         cargarDispositivos()
+
+    //
+    binding.btnVolver.setOnClickListener {
+        finish()
     }
 
+    }
     private fun cargarDispositivos() {
         val database = FirebaseDatabase.getInstance().getReference("Dispositivos")
         database.get().addOnSuccessListener { snapshot ->

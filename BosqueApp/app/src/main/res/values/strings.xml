@@ -95,4 +95,11 @@
     <string name="no_tienes_cuenta_registrate_aqu">No tienes cuenta? Registrate aquí</string>
     <string name="crea_los_dispositivos_a_usar">Crea los dispositivos a usar</string>
     <string name="indique_su_correo_electr_nico">Indique su correo electrónico</string>
+    <string name="volver">Volver</string>
+    <string name="volver1">Volver</string>
+    <string name="guardar">Guardar</string>
+    <string name="descripci_n_del_dispositivo">Descripción del dispositivo</string>
+    <string name="tipo_de_dispositivo">Tipo de dispositivo</string>
+    <string name="nombre_del_dispositivo1">Nombre del dispositivo</string>
+    <string name="volver2">Volver</string>
 </resources>

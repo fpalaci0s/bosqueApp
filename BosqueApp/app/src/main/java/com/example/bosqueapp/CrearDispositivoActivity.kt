@@ -28,10 +28,13 @@ class CrearDispositivoActivity : AppCompatActivity() {
             }
         }
 
-        // Configurar acción del botón "Ver Dispositivos"
+        // botón "Ver Dispositivos"
         binding.viewDeviceButton.setOnClickListener {
             val intent = Intent(this, VerDispositivosActivity::class.java)
             startActivity(intent)
+        }
+        binding.backButton.setOnClickListener {
+            finish()
         }
     }
 

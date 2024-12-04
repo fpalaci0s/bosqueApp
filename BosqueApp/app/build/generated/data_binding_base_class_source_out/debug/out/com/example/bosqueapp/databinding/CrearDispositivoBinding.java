@@ -23,6 +23,9 @@ public final class CrearDispositivoBinding implements ViewBinding {
   private final RelativeLayout rootView;
 
   @NonNull
+  public final MaterialButton backButton;
+
+  @NonNull
   public final MaterialCardView deviceCard;
 
   @NonNull
@@ -44,11 +47,12 @@ public final class CrearDispositivoBinding implements ViewBinding {
   public final MaterialButton viewDeviceButton;
 
   private CrearDispositivoBinding(@NonNull RelativeLayout rootView,
-      @NonNull MaterialCardView deviceCard, @NonNull TextInputEditText deviceDescriptionInput,
-      @NonNull TextInputEditText deviceNameInput, @NonNull TextInputEditText deviceTypeInput,
-      @NonNull MaterialButton saveDeviceButton, @NonNull TextView titleCreateDevice,
-      @NonNull MaterialButton viewDeviceButton) {
+      @NonNull MaterialButton backButton, @NonNull MaterialCardView deviceCard,
+      @NonNull TextInputEditText deviceDescriptionInput, @NonNull TextInputEditText deviceNameInput,
+      @NonNull TextInputEditText deviceTypeInput, @NonNull MaterialButton saveDeviceButton,
+      @NonNull TextView titleCreateDevice, @NonNull MaterialButton viewDeviceButton) {
     this.rootView = rootView;
+    this.backButton = backButton;
     this.deviceCard = deviceCard;
     this.deviceDescriptionInput = deviceDescriptionInput;
     this.deviceNameInput = deviceNameInput;
@@ -85,6 +89,12 @@ public final class CrearDispositivoBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.backButton;
+      MaterialButton backButton = ViewBindings.findChildViewById(rootView, id);
+      if (backButton == null) {
+        break missingId;
+      }
+
       id = R.id.deviceCard;
       MaterialCardView deviceCard = ViewBindings.findChildViewById(rootView, id);
       if (deviceCard == null) {
@@ -127,7 +137,7 @@ public final class CrearDispositivoBinding implements ViewBinding {
         break missingId;
       }
 
-      return new CrearDispositivoBinding((RelativeLayout) rootView, deviceCard,
+      return new CrearDispositivoBinding((RelativeLayout) rootView, backButton, deviceCard,
           deviceDescriptionInput, deviceNameInput, deviceTypeInput, saveDeviceButton,
           titleCreateDevice, viewDeviceButton);
     }

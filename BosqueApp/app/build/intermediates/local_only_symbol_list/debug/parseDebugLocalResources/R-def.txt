@@ -29,9 +29,11 @@ drawable pie_chart
 drawable user
 drawable warning_sign
 id accept_button
+id backButton
 id bottomNavigation
 id btnEditaritem
 id btnEliminaritem
+id btnVolver
 id call_services_button
 id cardEmergencyContacts
 id cardNotifications
@@ -127,6 +129,7 @@ string crear_dispositivo
 string cuenta_de_facebook
 string cuenta_de_google
 string cuenta_de_instagram
+string descripci_n_del_dispositivo
 string dispositivos_vinculados
 string edita_tu_perfil
 string editar_perfil
@@ -136,6 +139,7 @@ string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
 string grafico
+string guardar
 string guardar_cambios
 string guardar_dispositivo
 string icono_de_contacto_de_emergencia
@@ -167,6 +171,7 @@ string n_mero_133
 string no_tiene_una_cuenta
 string no_tienes_cuenta_registrate_aqu
 string nombre_del_dispositivo
+string nombre_del_dispositivo1
 string nombre_usuario_hint
 string notificaciones
 string notificacionesacc
@@ -184,6 +189,7 @@ string se_al_de_peligro
 string selecione_cuenta_a_vincular
 string sensor_1
 string settings
+string tipo_de_dispositivo
 string tu_correo_electr_nico
 string tu_foto_de_perfil
 string tu_nombre
@@ -199,6 +205,9 @@ string vincular_cuanta
 string vincular_cuenta
 string vincular_dispositivo
 string vincular_un_dispositivo
+string volver
+string volver1
+string volver2
 string x
 style Base.Theme.ForestApp
 style Theme.ForestApp

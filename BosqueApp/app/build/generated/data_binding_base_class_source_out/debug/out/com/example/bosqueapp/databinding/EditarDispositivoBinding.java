@@ -21,6 +21,9 @@ public final class EditarDispositivoBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
+  public final MaterialButton backButton;
+
+  @NonNull
   public final TextInputEditText deviceDescriptionInput;
 
   @NonNull
@@ -33,9 +36,11 @@ public final class EditarDispositivoBinding implements ViewBinding {
   public final MaterialButton saveDeviceButton;
 
   private EditarDispositivoBinding(@NonNull LinearLayout rootView,
-      @NonNull TextInputEditText deviceDescriptionInput, @NonNull TextInputEditText deviceNameInput,
-      @NonNull TextInputEditText deviceTypeInput, @NonNull MaterialButton saveDeviceButton) {
+      @NonNull MaterialButton backButton, @NonNull TextInputEditText deviceDescriptionInput,
+      @NonNull TextInputEditText deviceNameInput, @NonNull TextInputEditText deviceTypeInput,
+      @NonNull MaterialButton saveDeviceButton) {
     this.rootView = rootView;
+    this.backButton = backButton;
     this.deviceDescriptionInput = deviceDescriptionInput;
     this.deviceNameInput = deviceNameInput;
     this.deviceTypeInput = deviceTypeInput;
@@ -69,6 +74,12 @@ public final class EditarDispositivoBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.backButton;
+      MaterialButton backButton = ViewBindings.findChildViewById(rootView, id);
+      if (backButton == null) {
+        break missingId;
+      }
+
       id = R.id.deviceDescriptionInput;
       TextInputEditText deviceDescriptionInput = ViewBindings.findChildViewById(rootView, id);
       if (deviceDescriptionInput == null) {
@@ -93,8 +104,8 @@ public final class EditarDispositivoBinding implements ViewBinding {
         break missingId;
       }
 
-      return new EditarDispositivoBinding((LinearLayout) rootView, deviceDescriptionInput,
-          deviceNameInput, deviceTypeInput, saveDeviceButton);
+      return new EditarDispositivoBinding((LinearLayout) rootView, backButton,
+          deviceDescriptionInput, deviceNameInput, deviceTypeInput, saveDeviceButton);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

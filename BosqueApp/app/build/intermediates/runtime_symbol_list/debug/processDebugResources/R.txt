@@ -3256,6 +3256,7 @@ int id auto 0x7f080056
 int id autoComplete 0x7f080057
 int id autoCompleteToEnd 0x7f080058
 int id autoCompleteToStart 0x7f080059
+int id backButton 0x7f080236
 int id barrier 0x7f08005a
 int id baseline 0x7f08005b
 int id beginOnFirstDraw 0x7f08005c
@@ -3275,6 +3276,7 @@ int id browser_actions_menu_items 0x7f080069
 int id browser_actions_menu_view 0x7f08006a
 int id btnEditaritem 0x7f080230
 int id btnEliminaritem 0x7f08006b
+int id btnVolver 0x7f080237
 int id buttonPanel 0x7f08006c
 int id cache_measures 0x7f08006d
 int id callMeasure 0x7f08006e
@@ -4041,6 +4043,7 @@ int string crear_dispositivo 0x7f10005a
 int string cuenta_de_facebook 0x7f10005b
 int string cuenta_de_google 0x7f10005c
 int string cuenta_de_instagram 0x7f10005d
+int string descripci_n_del_dispositivo 0x7f100125
 int string dispositivos_vinculados 0x7f10005e
 int string edita_tu_perfil 0x7f10005f
 int string editar_perfil 0x7f100060
@@ -4058,6 +4061,7 @@ int string google_app_id 0x7f10006b
 int string google_crash_reporting_api_key 0x7f10006c
 int string google_storage_bucket 0x7f10006d
 int string grafico 0x7f10006e
+int string guardar 0x7f100126
 int string guardar_cambios 0x7f10006f
 int string guardar_dispositivo 0x7f100070
 int string hide_bottom_view_on_scroll_behavior 0x7f100071
@@ -4192,6 +4196,7 @@ int string n_mero_133 0x7f1000f0
 int string no_tiene_una_cuenta 0x7f1000f1
 int string no_tienes_cuenta_registrate_aqu 0x7f100121
 int string nombre_del_dispositivo 0x7f1000f2
+int string nombre_del_dispositivo1 0x7f100127
 int string nombre_usuario_hint 0x7f1000f3
 int string notificaciones 0x7f1000f4
 int string notificacionesacc 0x7f1000f5
@@ -4221,6 +4226,7 @@ int string settings 0x7f10010a
 int string side_sheet_accessibility_pane_title 0x7f10010b
 int string side_sheet_behavior 0x7f10010c
 int string status_bar_notification_info_overflow 0x7f10010d
+int string tipo_de_dispositivo 0x7f100128
 int string tu_correo_electr_nico 0x7f10010e
 int string tu_foto_de_perfil 0x7f10010f
 int string tu_nombre 0x7f100110
@@ -4236,6 +4242,9 @@ int string vincular_cuanta 0x7f100119
 int string vincular_cuenta 0x7f10011a
 int string vincular_dispositivo 0x7f10011b
 int string vincular_un_dispositivo 0x7f10011c
+int string volver 0x7f100124
+int string volver1 0x7f100129
+int string volver2 0x7f10012a
 int string x 0x7f10011d
 int style AlertDialog_AppCompat 0x7f110000
 int style AlertDialog_AppCompat_Light 0x7f110001

@@ -20,12 +20,12 @@
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/drawable_carabineros_de_chile.xml.flat",
-        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/drawable/carabineros_de_chile.xml"
-    },
-    {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/drawable_user.png.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/drawable/user.png"
+    },
+    {
+        "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/drawable_carabineros_de_chile.xml.flat",
+        "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/drawable/carabineros_de_chile.xml"
     },
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -92,10 +92,6 @@
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/layout/activity_main_menu.xml"
     },
     {
-        "merged": "com.example.bosqueapp-debug-43:/layout_inicio_sesion.xml.flat",
-        "source": "com.example.bosqueapp-main-45:/layout/inicio_sesion.xml"
-    },
-    {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/mipmap-hdpi/ic_launcher_round.webp"
     },
@@ -142,6 +138,10 @@
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bosqueapp-debug-43:/layout_ver_dispositivos.xml.flat",
+        "source": "com.example.bosqueapp-main-45:/layout/ver_dispositivos.xml"
     },
     {
         "merged": "/home/mango/.gradle/daemon/8.9/com.example.bosqueapp-debug-43:/layout_perfil.xml.flat",

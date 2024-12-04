@@ -15,14 +15,14 @@ class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        // Inicializar Firebase Auth
+        //  Firebase Auth
         auth = FirebaseAuth.getInstance()
 
-        // Configurar ViewBinding
+        // C ViewBinding
         binding = InicioSesionBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        // Manejar clic en el botón "Iniciar sesión"
+        // Iniciar sesión
         binding.loginButton.setOnClickListener {
             val email = binding.usernameInput.text.toString()
             val password = binding.passwordInput.text.toString()
@@ -34,7 +34,7 @@ class LoginActivity : AppCompatActivity() {
             }
         }
 
-        // Manejar clic en "¿No tienes cuenta? Regístrate aquí"
+        // manejar clic
         binding.registerText.setOnClickListener {
             val intent = Intent(this, RegisterActivity::class.java)
             startActivity(intent)

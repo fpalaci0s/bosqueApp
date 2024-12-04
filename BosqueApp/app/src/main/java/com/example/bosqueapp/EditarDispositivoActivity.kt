@@ -21,7 +21,7 @@ class EditarDispositivoActivity : AppCompatActivity() {
 
         database = FirebaseDatabase.getInstance().getReference("Dispositivos")
 
-        // Obtener datos del intent
+        //  intent
         dispositivoId = intent.getStringExtra("id") ?: return
         binding.deviceNameInput.setText(intent.getStringExtra("nombre"))
         binding.deviceTypeInput.setText(intent.getStringExtra("tipo"))
@@ -32,6 +32,11 @@ class EditarDispositivoActivity : AppCompatActivity() {
                 actualizarDispositivo()
             }
         }
+        //
+        binding.backButton.setOnClickListener {
+            finish()
+        }
+
     }
 
     private fun validarCampos(): Boolean {

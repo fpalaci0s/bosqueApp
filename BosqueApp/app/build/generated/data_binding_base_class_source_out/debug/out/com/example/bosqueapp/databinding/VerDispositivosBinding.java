@@ -12,6 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.bosqueapp.R;
+import com.google.android.material.button.MaterialButton;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -21,14 +22,19 @@ public final class VerDispositivosBinding implements ViewBinding {
   private final RelativeLayout rootView;
 
   @NonNull
+  public final MaterialButton btnVolver;
+
+  @NonNull
   public final RecyclerView devicesRecyclerView;
 
   @NonNull
   public final TextView titleViewDevices;
 
   private VerDispositivosBinding(@NonNull RelativeLayout rootView,
-      @NonNull RecyclerView devicesRecyclerView, @NonNull TextView titleViewDevices) {
+      @NonNull MaterialButton btnVolver, @NonNull RecyclerView devicesRecyclerView,
+      @NonNull TextView titleViewDevices) {
     this.rootView = rootView;
+    this.btnVolver = btnVolver;
     this.devicesRecyclerView = devicesRecyclerView;
     this.titleViewDevices = titleViewDevices;
   }
@@ -60,6 +66,12 @@ public final class VerDispositivosBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.btnVolver;
+      MaterialButton btnVolver = ViewBindings.findChildViewById(rootView, id);
+      if (btnVolver == null) {
+        break missingId;
+      }
+
       id = R.id.devicesRecyclerView;
       RecyclerView devicesRecyclerView = ViewBindings.findChildViewById(rootView, id);
       if (devicesRecyclerView == null) {
@@ -72,7 +84,7 @@ public final class VerDispositivosBinding implements ViewBinding {
         break missingId;
       }
 
-      return new VerDispositivosBinding((RelativeLayout) rootView, devicesRecyclerView,
+      return new VerDispositivosBinding((RelativeLayout) rootView, btnVolver, devicesRecyclerView,
           titleViewDevices);
     }
     String missingId = rootView.getResources().getResourceName(id);

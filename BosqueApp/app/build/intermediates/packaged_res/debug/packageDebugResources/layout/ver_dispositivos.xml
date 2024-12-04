@@ -26,4 +26,18 @@
         android:layout_height="match_parent"
         android:layout_below="@id/titleViewDevices"
         android:padding="8dp" />
+
+    <!-- Botón de Volver -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnVolver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:text="@string/volver2"
+        android:textColor="@android:color/white"
+        android:backgroundTint="@color/black"
+        style="@style/Widget.Material3.Button.TonalButton" />
+
 </RelativeLayout>
