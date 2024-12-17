@@ -54,7 +54,7 @@ class MainMenuActivity : AppCompatActivity() {
 
         // acción para la tarjeta de zonas
         cardZone.setOnClickListener {
-            val intent = Intent(this, ZoneActivity::class.java)
+            val intent = Intent(this, ArduinoActivity::class.java)
             try {
                 startActivity(intent)
             } catch (e: Exception) {

@@ -55,6 +55,7 @@ id emailLayout
 id emailText
 id fabLogout
 id homeButton
+id humidityTextView
 id linearLayout5
 id loginButton
 id main
@@ -74,6 +75,7 @@ id registerText
 id saveButton
 id saveDeviceButton
 id temp_increase_text
+id temperatureTextView
 id titleCreateDevice
 id titleViewDevices
 id topAppBar
@@ -87,6 +89,7 @@ id viewDeviceButton
 id warning_icon
 layout activity_main_menu
 layout activity_register
+layout arduino
 layout crear_dispositivo
 layout editar_dispositivo
 layout editar_perfil
@@ -97,7 +100,6 @@ layout notificacion
 layout perfil
 layout ver_dispositivos
 layout vinculacion
-layout zonas
 mipmap ic_launcher
 mipmap ic_launcher_round
 string aceptar

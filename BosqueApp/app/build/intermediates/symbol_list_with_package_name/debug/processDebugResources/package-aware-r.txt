@@ -3417,6 +3417,7 @@ id homeAsUp
 id homeButton
 id honorRequest
 id horizontal_only
+id humidityTextView
 id icon
 id icon_group
 id icon_only
@@ -3665,6 +3666,7 @@ id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
 id temp_increase_text
+id temperatureTextView
 id text
 id text2
 id textEnd
@@ -3852,6 +3854,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main_menu
 layout activity_register
+layout arduino
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout crear_dispositivo
@@ -3943,7 +3946,6 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 layout ver_dispositivos
 layout vinculacion
-layout zonas
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

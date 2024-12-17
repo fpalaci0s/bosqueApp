@@ -245,12 +245,12 @@ ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/Androi
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:40:13-36
 	android:name
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:39:19-54
-activity#com.example.bosqueapp.ZoneActivity
+activity#com.example.bosqueapp.ArduinoActivity
 ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:41:9-42:38
 	android:exported
 		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:42:13-36
 	android:name
-		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:41:19-47
+		ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:41:19-50
 activity#com.example.bosqueapp.CrearDispositivoActivity
 ADDED from /home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:43:9-44:38
 	android:exported

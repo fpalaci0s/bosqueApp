@@ -134,8 +134,8 @@
 72-->/home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:40:13-36
 73        <activity
 73-->/home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:41:9-42:38
-74            android:name="com.example.bosqueapp.ZoneActivity"
-74-->/home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:41:19-47
+74            android:name="com.example.bosqueapp.ArduinoActivity"
+74-->/home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:41:19-50
 75            android:exported="true" />
 75-->/home/mango/Documentos/GitHub/bosqueApp/BosqueApp/app/src/main/AndroidManifest.xml:42:13-36
 76        <activity

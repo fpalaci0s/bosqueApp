@@ -71,7 +71,7 @@
             android:name="com.example.bosqueapp.VinculationActivity"
             android:exported="true" />
         <activity
-            android:name="com.example.bosqueapp.ZoneActivity"
+            android:name="com.example.bosqueapp.ArduinoActivity"
             android:exported="true" />
         <activity
             android:name="com.example.bosqueapp.CrearDispositivoActivity"

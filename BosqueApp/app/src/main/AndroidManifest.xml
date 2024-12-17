@@ -38,7 +38,7 @@
             android:exported="true"/>
         <activity android:name=".VinculationActivity"
             android:exported="true"/>
-        <activity android:name=".ZoneActivity"
+        <activity android:name=".ArduinoActivity"
             android:exported="true"/>
         <activity android:name=".CrearDispositivoActivity"
             android:exported="true"/>
