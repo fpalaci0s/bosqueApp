@@ -103,4 +103,6 @@
     <string name="nombre_del_dispositivo1">Nombre del dispositivo</string>
     <string name="volver2">Volver</string>
     <string name="sensor_de_humedad_y_temperatura_de_arduino">Datos de sensor de temperatura y humedad de Firebase </string>
+    <string name="datos_de_arduino">Datos de Arduino</string>
+    <string name="consulta_los_datos_de_arduino_actualizados_en_tiempo_real">Consulta los datos de Arduino, actualizados en tiempo real</string>
 </resources>
